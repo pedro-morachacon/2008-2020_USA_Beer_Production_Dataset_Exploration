@@ -1,861 +1,861 @@
-tax_status,year,month,type,month_current,tax_rate
-Taxable,2008,1,In bottles and cans,13222104,$7/$18 per barrel
-Taxable,2008,1,In barrels and kegs,1371239,$7/$18 per barrel
-Taxable,2008,1,"Tax Determined, Premises Use",7426,$7/$18 per barrel
-Tax Free,2008,1,For export,262985,$7/$18 per barrel
-Tax Free,2008,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,1,Consumed on brewery premises,708,$7/$18 per barrel
-Taxable,2008,2,In bottles and cans,13051864,$7/$18 per barrel
-Taxable,2008,2,In barrels and kegs,1250974,$7/$18 per barrel
-Taxable,2008,2,"Tax Determined, Premises Use",7558,$7/$18 per barrel
-Tax Free,2008,2,For export,286593,$7/$18 per barrel
-Tax Free,2008,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,2,Consumed on brewery premises,671,$7/$18 per barrel
-Taxable,2008,3,In bottles and cans,13901582,$7/$18 per barrel
-Taxable,2008,3,In barrels and kegs,1449849,$7/$18 per barrel
-Taxable,2008,3,"Tax Determined, Premises Use",88816,$7/$18 per barrel
-Tax Free,2008,3,For export,309529,$7/$18 per barrel
-Tax Free,2008,3,For vessels and aircraft,3,$7/$18 per barrel
-Tax Free,2008,3,Consumed on brewery premises,7417,$7/$18 per barrel
-Taxable,2008,4,In bottles and cans,14361125,$7/$18 per barrel
-Taxable,2008,4,In barrels and kegs,1457124,$7/$18 per barrel
-Taxable,2008,4,"Tax Determined, Premises Use",8561,$7/$18 per barrel
-Tax Free,2008,4,For export,361949,$7/$18 per barrel
-Tax Free,2008,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,4,Consumed on brewery premises,821,$7/$18 per barrel
-Taxable,2008,5,In bottles and cans,15421462,$7/$18 per barrel
-Taxable,2008,5,In barrels and kegs,1489290,$7/$18 per barrel
-Taxable,2008,5,"Tax Determined, Premises Use",8720,$7/$18 per barrel
-Tax Free,2008,5,For export,356217,$7/$18 per barrel
-Tax Free,2008,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,5,Consumed on brewery premises,1112,$7/$18 per barrel
-Taxable,2008,6,In bottles and cans,15232754,$7/$18 per barrel
-Taxable,2008,6,In barrels and kegs,1609215,$7/$18 per barrel
-Taxable,2008,6,"Tax Determined, Premises Use",94611,$7/$18 per barrel
-Tax Free,2008,6,For export,393200,$7/$18 per barrel
-Tax Free,2008,6,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,6,Consumed on brewery premises,7671,$7/$18 per barrel
-Taxable,2008,7,In bottles and cans,15146751,$7/$18 per barrel
-Taxable,2008,7,In barrels and kegs,1508853,$7/$18 per barrel
-Taxable,2008,7,"Tax Determined, Premises Use",7379,$7/$18 per barrel
-Tax Free,2008,7,For export,386143,$7/$18 per barrel
-Tax Free,2008,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,7,Consumed on brewery premises,1107,$7/$18 per barrel
-Taxable,2008,8,In bottles and cans,14973940,$7/$18 per barrel
-Taxable,2008,8,In barrels and kegs,1470549,$7/$18 per barrel
-Taxable,2008,8,"Tax Determined, Premises Use",6700,$7/$18 per barrel
-Tax Free,2008,8,For export,343909,$7/$18 per barrel
-Tax Free,2008,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,8,Consumed on brewery premises,989,$7/$18 per barrel
-Taxable,2008,9,In bottles and cans,14425354,$7/$18 per barrel
-Taxable,2008,9,In barrels and kegs,1549416,$7/$18 per barrel
-Taxable,2008,9,"Tax Determined, Premises Use",99250,$7/$18 per barrel
-Tax Free,2008,9,For export,339918,$7/$18 per barrel
-Tax Free,2008,9,For vessels and aircraft,101,$7/$18 per barrel
-Tax Free,2008,9,Consumed on brewery premises,8688,$7/$18 per barrel
-Taxable,2008,10,In bottles and cans,13544598,$7/$18 per barrel
-Taxable,2008,10,In barrels and kegs,1407315,$7/$18 per barrel
-Taxable,2008,10,"Tax Determined, Premises Use",7430,$7/$18 per barrel
-Tax Free,2008,10,For export,358387,$7/$18 per barrel
-Tax Free,2008,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,10,Consumed on brewery premises,806,$7/$18 per barrel
-Taxable,2008,11,In bottles and cans,11895613,$7/$18 per barrel
-Taxable,2008,11,In barrels and kegs,1230087,$7/$18 per barrel
-Taxable,2008,11,"Tax Determined, Premises Use",6424,$7/$18 per barrel
-Tax Free,2008,11,For export,363547,$7/$18 per barrel
-Tax Free,2008,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,11,Consumed on brewery premises,619,$7/$18 per barrel
-Taxable,2008,12,In bottles and cans,11670121,$7/$18 per barrel
-Taxable,2008,12,In barrels and kegs,1419144,$7/$18 per barrel
-Taxable,2008,12,"Tax Determined, Premises Use",86744,$7/$18 per barrel
-Tax Free,2008,12,For export,333236,$7/$18 per barrel
-Tax Free,2008,12,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2008,12,Consumed on brewery premises,6771,$7/$18 per barrel
-Taxable,2009,1,In bottles and cans,13081831,$7/$18 per barrel
-Taxable,2009,1,In barrels and kegs,1230788,$7/$18 per barrel
-Taxable,2009,1,"Tax Determined, Premises Use",6033,$7/$18 per barrel
-Tax Free,2009,1,For export,334415,$7/$18 per barrel
-Tax Free,2009,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,1,Consumed on brewery premises,619,$7/$18 per barrel
-Taxable,2009,2,In bottles and cans,12739731,$7/$18 per barrel
-Taxable,2009,2,In barrels and kegs,1290827,$7/$18 per barrel
-Taxable,2009,2,"Tax Determined, Premises Use",5934,$7/$18 per barrel
-Tax Free,2009,2,For export,262123,$7/$18 per barrel
-Tax Free,2009,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,2,Consumed on brewery premises,467,$7/$18 per barrel
-Taxable,2009,3,In bottles and cans,14167308,$7/$18 per barrel
-Taxable,2009,3,In barrels and kegs,1497154,$7/$18 per barrel
-Taxable,2009,3,"Tax Determined, Premises Use",82923,$7/$18 per barrel
-Tax Free,2009,3,For export,300475,$7/$18 per barrel
-Tax Free,2009,3,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,3,Consumed on brewery premises,6980,$7/$18 per barrel
-Taxable,2009,4,In bottles and cans,14384698,$7/$18 per barrel
-Taxable,2009,4,In barrels and kegs,1504016,$7/$18 per barrel
-Taxable,2009,4,"Tax Determined, Premises Use",5798,$7/$18 per barrel
-Tax Free,2009,4,For export,295526,$7/$18 per barrel
-Tax Free,2009,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,4,Consumed on brewery premises,768,$7/$18 per barrel
-Taxable,2009,5,In bottles and cans,15393903,$7/$18 per barrel
-Taxable,2009,5,In barrels and kegs,1474095,$7/$18 per barrel
-Taxable,2009,5,"Tax Determined, Premises Use",5763,$7/$18 per barrel
-Tax Free,2009,5,For export,338519,$7/$18 per barrel
-Tax Free,2009,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,5,Consumed on brewery premises,862,$7/$18 per barrel
-Taxable,2009,6,In bottles and cans,15392420,$7/$18 per barrel
-Taxable,2009,6,In barrels and kegs,1661000,$7/$18 per barrel
-Taxable,2009,6,"Tax Determined, Premises Use",87133,$7/$18 per barrel
-Tax Free,2009,6,For export,356256,$7/$18 per barrel
-Tax Free,2009,6,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,6,Consumed on brewery premises,6660,$7/$18 per barrel
-Taxable,2009,7,In bottles and cans,15496866,$7/$18 per barrel
-Taxable,2009,7,In barrels and kegs,1485738,$7/$18 per barrel
-Taxable,2009,7,"Tax Determined, Premises Use",6970,$7/$18 per barrel
-Tax Free,2009,7,For export,457739,$7/$18 per barrel
-Tax Free,2009,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,7,Consumed on brewery premises,1313,$7/$18 per barrel
-Taxable,2009,8,In bottles and cans,14284174,$7/$18 per barrel
-Taxable,2009,8,In barrels and kegs,1428279,$7/$18 per barrel
-Taxable,2009,8,"Tax Determined, Premises Use",5647,$7/$18 per barrel
-Tax Free,2009,8,For export,333648,$7/$18 per barrel
-Tax Free,2009,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,8,Consumed on brewery premises,1115,$7/$18 per barrel
-Taxable,2009,9,In bottles and cans,13643212,$7/$18 per barrel
-Taxable,2009,9,In barrels and kegs,1595488,$7/$18 per barrel
-Taxable,2009,9,"Tax Determined, Premises Use",93891,$7/$18 per barrel
-Tax Free,2009,9,For export,297696,$7/$18 per barrel
-Tax Free,2009,9,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,9,Consumed on brewery premises,8471,$7/$18 per barrel
-Taxable,2009,10,In bottles and cans,13028910,$7/$18 per barrel
-Taxable,2009,10,In barrels and kegs,1381908,$7/$18 per barrel
-Taxable,2009,10,"Tax Determined, Premises Use",6000,$7/$18 per barrel
-Tax Free,2009,10,For export,319415,$7/$18 per barrel
-Tax Free,2009,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,10,Consumed on brewery premises,727,$7/$18 per barrel
-Taxable,2009,11,In bottles and cans,11491624,$7/$18 per barrel
-Taxable,2009,11,In barrels and kegs,1243265,$7/$18 per barrel
-Taxable,2009,11,"Tax Determined, Premises Use",5506,$7/$18 per barrel
-Tax Free,2009,11,For export,336206,$7/$18 per barrel
-Tax Free,2009,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2009,11,Consumed on brewery premises,727,$7/$18 per barrel
-Taxable,2009,12,In bottles and cans,11814020,$7/$18 per barrel
-Taxable,2009,12,In barrels and kegs,1376754,$7/$18 per barrel
-Taxable,2009,12,"Tax Determined, Premises Use",99087,$7/$18 per barrel
-Tax Free,2009,12,For export,300591,$7/$18 per barrel
-Tax Free,2009,12,For vessels and aircraft,19,$7/$18 per barrel
-Tax Free,2009,12,Consumed on brewery premises,5695,$7/$18 per barrel
-Taxable,2010,1,In bottles and cans,11908922,$7/$18 per barrel
-Taxable,2010,1,In barrels and kegs,1245143,$7/$18 per barrel
-Taxable,2010,1,"Tax Determined, Premises Use",5267,$7/$18 per barrel
-Tax Free,2010,1,For export,224066,$7/$18 per barrel
-Tax Free,2010,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,1,Consumed on brewery premises,913,$7/$18 per barrel
-Taxable,2010,2,In bottles and cans,11847648,$7/$18 per barrel
-Taxable,2010,2,In barrels and kegs,1308677,$7/$18 per barrel
-Taxable,2010,2,"Tax Determined, Premises Use",4736,$7/$18 per barrel
-Tax Free,2010,2,For export,263721,$7/$18 per barrel
-Tax Free,2010,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,2,Consumed on brewery premises,719,$7/$18 per barrel
-Taxable,2010,3,In bottles and cans,14212648,$7/$18 per barrel
-Taxable,2010,3,In barrels and kegs,1658845,$7/$18 per barrel
-Taxable,2010,3,"Tax Determined, Premises Use",101336,$7/$18 per barrel
-Tax Free,2010,3,For export,377355,$7/$18 per barrel
-Tax Free,2010,3,For vessels and aircraft,27,$7/$18 per barrel
-Tax Free,2010,3,Consumed on brewery premises,6865,$7/$18 per barrel
-Taxable,2010,4,In bottles and cans,13758882,$7/$18 per barrel
-Taxable,2010,4,In barrels and kegs,1486282,$7/$18 per barrel
-Taxable,2010,4,"Tax Determined, Premises Use",5972,$7/$18 per barrel
-Tax Free,2010,4,For export,397695,$7/$18 per barrel
-Tax Free,2010,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,4,Consumed on brewery premises,748,$7/$18 per barrel
-Taxable,2010,5,In bottles and cans,15066715,$7/$18 per barrel
-Taxable,2010,5,In barrels and kegs,1507136,$7/$18 per barrel
-Taxable,2010,5,"Tax Determined, Premises Use",5916,$7/$18 per barrel
-Tax Free,2010,5,For export,359192,$7/$18 per barrel
-Tax Free,2010,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,5,Consumed on brewery premises,895,$7/$18 per barrel
-Taxable,2010,6,In bottles and cans,15624610,$7/$18 per barrel
-Taxable,2010,6,In barrels and kegs,1717761,$7/$18 per barrel
-Taxable,2010,6,"Tax Determined, Premises Use",112498,$7/$18 per barrel
-Tax Free,2010,6,For export,421907,$7/$18 per barrel
-Tax Free,2010,6,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,6,Consumed on brewery premises,7327,$7/$18 per barrel
-Taxable,2010,7,In bottles and cans,15254822,$7/$18 per barrel
-Taxable,2010,7,In barrels and kegs,1472824,$7/$18 per barrel
-Taxable,2010,7,"Tax Determined, Premises Use",7120,$7/$18 per barrel
-Tax Free,2010,7,For export,371171,$7/$18 per barrel
-Tax Free,2010,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,7,Consumed on brewery premises,1106,$7/$18 per barrel
-Taxable,2010,8,In bottles and cans,15357493,$7/$18 per barrel
-Taxable,2010,8,In barrels and kegs,1518152,$7/$18 per barrel
-Taxable,2010,8,"Tax Determined, Premises Use",6839,$7/$18 per barrel
-Tax Free,2010,8,For export,312781,$7/$18 per barrel
-Tax Free,2010,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,8,Consumed on brewery premises,1126,$7/$18 per barrel
-Taxable,2010,9,In bottles and cans,13213621,$7/$18 per barrel
-Taxable,2010,9,In barrels and kegs,1623762,$7/$18 per barrel
-Taxable,2010,9,"Tax Determined, Premises Use",125524,$7/$18 per barrel
-Tax Free,2010,9,For export,337550,$7/$18 per barrel
-Tax Free,2010,9,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,9,Consumed on brewery premises,6613,$7/$18 per barrel
-Taxable,2010,10,In bottles and cans,12458328,$7/$18 per barrel
-Taxable,2010,10,In barrels and kegs,1357309,$7/$18 per barrel
-Taxable,2010,10,"Tax Determined, Premises Use",6888,$7/$18 per barrel
-Tax Free,2010,10,For export,332671,$7/$18 per barrel
-Tax Free,2010,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,10,Consumed on brewery premises,1006,$7/$18 per barrel
-Taxable,2010,11,In bottles and cans,11950035,$7/$18 per barrel
-Taxable,2010,11,In barrels and kegs,1338822,$7/$18 per barrel
-Taxable,2010,11,"Tax Determined, Premises Use",6891,$7/$18 per barrel
-Tax Free,2010,11,For export,352475,$7/$18 per barrel
-Tax Free,2010,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,11,Consumed on brewery premises,747,$7/$18 per barrel
-Taxable,2010,12,In bottles and cans,12290553,$7/$18 per barrel
-Taxable,2010,12,In barrels and kegs,1465815,$7/$18 per barrel
-Taxable,2010,12,"Tax Determined, Premises Use",114262,$7/$18 per barrel
-Tax Free,2010,12,For export,330460,$7/$18 per barrel
-Tax Free,2010,12,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2010,12,Consumed on brewery premises,6237,$7/$18 per barrel
-Taxable,2011,1,In bottles and cans,11571819,$7/$18 per barrel
-Taxable,2011,1,In barrels and kegs,1245125,$7/$18 per barrel
-Taxable,2011,1,"Tax Determined, Premises Use",5989,$7/$18 per barrel
-Tax Free,2011,1,For export,264669,$7/$18 per barrel
-Tax Free,2011,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,1,Consumed on brewery premises,886,$7/$18 per barrel
-Taxable,2011,2,In bottles and cans,11509264,$7/$18 per barrel
-Taxable,2011,2,In barrels and kegs,1234147,$7/$18 per barrel
-Taxable,2011,2,"Tax Determined, Premises Use",6036,$7/$18 per barrel
-Tax Free,2011,2,For export,279150,$7/$18 per barrel
-Tax Free,2011,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,2,Consumed on brewery premises,942,$7/$18 per barrel
-Taxable,2011,3,In bottles and cans,14516040,$7/$18 per barrel
-Taxable,2011,3,In barrels and kegs,1726446,$7/$18 per barrel
-Taxable,2011,3,"Tax Determined, Premises Use",103125,$7/$18 per barrel
-Tax Free,2011,3,For export,387393,$7/$18 per barrel
-Tax Free,2011,3,For vessels and aircraft,2,$7/$18 per barrel
-Tax Free,2011,3,Consumed on brewery premises,6185,$7/$18 per barrel
-Taxable,2011,4,In bottles and cans,13385656,$7/$18 per barrel
-Taxable,2011,4,In barrels and kegs,1429143,$7/$18 per barrel
-Taxable,2011,4,"Tax Determined, Premises Use",6960,$7/$18 per barrel
-Tax Free,2011,4,For export,376059,$7/$18 per barrel
-Tax Free,2011,4,For vessels and aircraft,61,$7/$18 per barrel
-Tax Free,2011,4,Consumed on brewery premises,1089,$7/$18 per barrel
-Taxable,2011,5,In bottles and cans,14615283,$7/$18 per barrel
-Taxable,2011,5,In barrels and kegs,1483857,$7/$18 per barrel
-Taxable,2011,5,"Tax Determined, Premises Use",6589,$7/$18 per barrel
-Tax Free,2011,5,For export,394035,$7/$18 per barrel
-Tax Free,2011,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,5,Consumed on brewery premises,1458,$7/$18 per barrel
-Taxable,2011,6,In bottles and cans,15726720,$7/$18 per barrel
-Taxable,2011,6,In barrels and kegs,1718331,$7/$18 per barrel
-Taxable,2011,6,"Tax Determined, Premises Use",106228,$7/$18 per barrel
-Tax Free,2011,6,For export,391694,$7/$18 per barrel
-Tax Free,2011,6,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,6,Consumed on brewery premises,6730,$7/$18 per barrel
-Taxable,2011,7,In bottles and cans,13839549,$7/$18 per barrel
-Taxable,2011,7,In barrels and kegs,1385067,$7/$18 per barrel
-Taxable,2011,7,"Tax Determined, Premises Use",6825,$7/$18 per barrel
-Tax Free,2011,7,For export,398726,$7/$18 per barrel
-Tax Free,2011,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,7,Consumed on brewery premises,2145,$7/$18 per barrel
-Taxable,2011,8,In bottles and cans,14643159,$7/$18 per barrel
-Taxable,2011,8,In barrels and kegs,1567155,$7/$18 per barrel
-Taxable,2011,8,"Tax Determined, Premises Use",7887,$7/$18 per barrel
-Tax Free,2011,8,For export,367166,$7/$18 per barrel
-Tax Free,2011,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,8,Consumed on brewery premises,1591,$7/$18 per barrel
-Taxable,2011,9,In bottles and cans,13774050,$7/$18 per barrel
-Taxable,2011,9,In barrels and kegs,1624151,$7/$18 per barrel
-Taxable,2011,9,"Tax Determined, Premises Use",117859,$7/$18 per barrel
-Tax Free,2011,9,For export,342365,$7/$18 per barrel
-Tax Free,2011,9,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,9,Consumed on brewery premises,10042,$7/$18 per barrel
-Taxable,2011,10,In bottles and cans,12236621,$7/$18 per barrel
-Taxable,2011,10,In barrels and kegs,1369396,$7/$18 per barrel
-Taxable,2011,10,"Tax Determined, Premises Use",7509,$7/$18 per barrel
-Tax Free,2011,10,For export,414196,$7/$18 per barrel
-Tax Free,2011,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,10,Consumed on brewery premises,1142,$7/$18 per barrel
-Taxable,2011,11,In bottles and cans,11878883,$7/$18 per barrel
-Taxable,2011,11,In barrels and kegs,1332015,$7/$18 per barrel
-Taxable,2011,11,"Tax Determined, Premises Use",7336,$7/$18 per barrel
-Tax Free,2011,11,For export,417101,$7/$18 per barrel
-Tax Free,2011,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,11,Consumed on brewery premises,1029,$7/$18 per barrel
-Taxable,2011,12,In bottles and cans,11741836,$7/$18 per barrel
-Taxable,2011,12,In barrels and kegs,1463063,$7/$18 per barrel
-Taxable,2011,12,"Tax Determined, Premises Use",108521,$7/$18 per barrel
-Tax Free,2011,12,For export,385447,$7/$18 per barrel
-Tax Free,2011,12,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2011,12,Consumed on brewery premises,6137,$7/$18 per barrel
-Taxable,2012,1,In bottles and cans,11955351,$7/$18 per barrel
-Taxable,2012,1,In barrels and kegs,1349271,$7/$18 per barrel
-Taxable,2012,1,"Tax Determined, Premises Use",6501,$7/$18 per barrel
-Tax Free,2012,1,For export,321453,$7/$18 per barrel
-Tax Free,2012,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,1,Consumed on brewery premises,1044,$7/$18 per barrel
-Taxable,2012,2,In bottles and cans,12332071,$7/$18 per barrel
-Taxable,2012,2,In kegs,1376460,$7/$18 per barrel
-Taxable,2012,2,"Tax Determined, Premises Use",6715,$7/$18 per barrel
-Tax Free,2012,2,For export,357753,$7/$18 per barrel
-Tax Free,2012,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,2,Consumed on brewery premises,1121,$7/$18 per barrel
-Taxable,2012,3,In bottles and cans,13773526,$7/$18 per barrel
-Taxable,2012,3,In kegs,1686628,$7/$18 per barrel
-Taxable,2012,3,"Tax Determined, Premises Use",102876,$7/$18 per barrel
-Tax Free,2012,3,For export,416950,$7/$18 per barrel
-Tax Free,2012,3,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,3,Consumed on brewery premises,6082,$7/$18 per barrel
-Taxable,2012,4,In bottles and cans,13477976,$7/$18 per barrel
-Taxable,2012,4,In kegs,1412362,$7/$18 per barrel
-Taxable,2012,4,"Tax Determined, Premises Use",7775,$7/$18 per barrel
-Tax Free,2012,4,For export,411898,$7/$18 per barrel
-Tax Free,2012,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,4,Consumed on brewery premises,1190,$7/$18 per barrel
-Taxable,2012,5,In bottles and cans,15336779,$7/$18 per barrel
-Taxable,2012,5,In kegs,1564931,$7/$18 per barrel
-Taxable,2012,5,"Tax Determined, Premises Use",7918,$7/$18 per barrel
-Tax Free,2012,5,For export,461000,$7/$18 per barrel
-Tax Free,2012,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,5,Consumed on brewery premises,1168,$7/$18 per barrel
-Taxable,2012,6,In bottles and cans,15192075,$7/$18 per barrel
-Taxable,2012,6,In kegs,1664444,$7/$18 per barrel
-Taxable,2012,6,"Tax Determined, Premises Use",114288,$7/$18 per barrel
-Tax Free,2012,6,For export,432795,$7/$18 per barrel
-Tax Free,2012,6,For vessels and aircraft,28,$7/$18 per barrel
-Tax Free,2012,6,Consumed on brewery premises,8804,$7/$18 per barrel
-Taxable,2012,7,In bottles and cans,14929416,$7/$18 per barrel
-Taxable,2012,7,In kegs,1490304,$7/$18 per barrel
-Taxable,2012,7,"Tax Determined, Premises Use",7873,$7/$18 per barrel
-Tax Free,2012,7,For export,437938,$7/$18 per barrel
-Tax Free,2012,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,7,Consumed on brewery premises,1844,$7/$18 per barrel
-Taxable,2012,8,In bottles and cans,14961416,$7/$18 per barrel
-Taxable,2012,8,In kegs,1565666,$7/$18 per barrel
-Taxable,2012,8,"Tax Determined, Premises Use",8502,$7/$18 per barrel
-Tax Free,2012,8,For export,411977,$7/$18 per barrel
-Tax Free,2012,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,8,Consumed on brewery premises,1525,$7/$18 per barrel
-Taxable,2012,9,In bottles and cans,13052268,$7/$18 per barrel
-Taxable,2012,9,In kegs,1574509,$7/$18 per barrel
-Taxable,2012,9,"Tax Determined, Premises Use",111767,$7/$18 per barrel
-Tax Free,2012,9,For export,429588,$7/$18 per barrel
-Tax Free,2012,9,For vessels and aircraft,75,$7/$18 per barrel
-Tax Free,2012,9,Consumed on brewery premises,9831,$7/$18 per barrel
-Taxable,2012,10,In bottles and cans,12819635,$7/$18 per barrel
-Taxable,2012,10,In kegs,1460515,$7/$18 per barrel
-Taxable,2012,10,"Tax Determined, Premises Use",8318,$7/$18 per barrel
-Tax Free,2012,10,For export,483568,$7/$18 per barrel
-Tax Free,2012,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,10,Consumed on brewery premises,1467,$7/$18 per barrel
-Taxable,2012,11,In bottles and cans,12079191,$7/$18 per barrel
-Taxable,2012,11,In kegs,1326659,$7/$18 per barrel
-Taxable,2012,11,"Tax Determined, Premises Use",7426,$7/$18 per barrel
-Tax Free,2012,11,For export,441845,$7/$18 per barrel
-Tax Free,2012,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,11,Consumed on brewery premises,1267,$7/$18 per barrel
-Taxable,2012,12,In bottles and cans,11488549,$7/$18 per barrel
-Taxable,2012,12,In kegs,1385919,$7/$18 per barrel
-Taxable,2012,12,"Tax Determined, Premises Use",102737,$7/$18 per barrel
-Tax Free,2012,12,For export,427839,$7/$18 per barrel
-Tax Free,2012,12,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2012,12,Consumed on brewery premises,9684,$7/$18 per barrel
-Taxable,2013,1,In bottles and cans,12274005,$7/$18 per barrel
-Taxable,2013,1,In kegs,1406771,$7/$18 per barrel
-Taxable,2013,1,"Tax Determined, Premises Use",7310,$7/$18 per barrel
-Tax Free,2013,1,For export,350896,$7/$18 per barrel
-Tax Free,2013,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,1,Consumed on brewery premises,1090,$7/$18 per barrel
-Taxable,2013,2,In bottles and cans,11634824,$7/$18 per barrel
-Taxable,2013,2,In kegs,1267516,$7/$18 per barrel
-Taxable,2013,2,"Tax Determined, Premises Use",6747,$7/$18 per barrel
-Tax Free,2013,2,For export,364352,$7/$18 per barrel
-Tax Free,2013,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,2,Consumed on brewery premises,956,$7/$18 per barrel
-Taxable,2013,3,In bottles and cans,12988319,$7/$18 per barrel
-Taxable,2013,3,In kegs,1590977,$7/$18 per barrel
-Taxable,2013,3,"Tax Determined, Premises Use",135222,$7/$18 per barrel
-Tax Free,2013,3,For export,389026,$7/$18 per barrel
-Tax Free,2013,3,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,3,Consumed on brewery premises,12078,$7/$18 per barrel
-Taxable,2013,4,In bottles and cans,13568681,$7/$18 per barrel
-Taxable,2013,4,In kegs,1473897,$7/$18 per barrel
-Taxable,2013,4,"Tax Determined, Premises Use",8817,$7/$18 per barrel
-Tax Free,2013,4,For export,419968,$7/$18 per barrel
-Tax Free,2013,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,4,Consumed on brewery premises,1269,$7/$18 per barrel
-Taxable,2013,5,In bottles and cans,14776310,$7/$18 per barrel
-Taxable,2013,5,In kegs,1533136,$7/$18 per barrel
-Taxable,2013,5,"Tax Determined, Premises Use",7880,$7/$18 per barrel
-Tax Free,2013,5,For export,485237,$7/$18 per barrel
-Tax Free,2013,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,5,Consumed on brewery premises,1724,$7/$18 per barrel
-Taxable,2013,6,In bottles and cans,14758150,$7/$18 per barrel
-Taxable,2013,6,In kegs,1656493,$7/$18 per barrel
-Taxable,2013,6,"Tax Determined, Premises Use",117302,$7/$18 per barrel
-Tax Free,2013,6,For export,415176,$7/$18 per barrel
-Tax Free,2013,6,For vessels and aircraft,661,$7/$18 per barrel
-Tax Free,2013,6,Consumed on brewery premises,14767,$7/$18 per barrel
-Taxable,2013,7,In bottles and cans,14620708,$7/$18 per barrel
-Taxable,2013,7,In kegs,1489704,$7/$18 per barrel
-Taxable,2013,7,"Tax Determined, Premises Use",8775,$7/$18 per barrel
-Tax Free,2013,7,For export,521250,$7/$18 per barrel
-Tax Free,2013,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,7,Consumed on brewery premises,1810,$7/$18 per barrel
-Taxable,2013,8,In bottles and cans,14624362,$7/$18 per barrel
-Taxable,2013,8,In kegs,1489756,$7/$18 per barrel
-Taxable,2013,8,"Tax Determined, Premises Use",7914,$7/$18 per barrel
-Tax Free,2013,8,For export,463206,$7/$18 per barrel
-Tax Free,2013,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,8,Consumed on brewery premises,1808,$7/$18 per barrel
-Taxable,2013,9,In bottles and cans,13420386,$7/$18 per barrel
-Taxable,2013,9,In kegs,1610189,$7/$18 per barrel
-Taxable,2013,9,"Tax Determined, Premises Use",121678,$7/$18 per barrel
-Tax Free,2013,9,For export,496157,$7/$18 per barrel
-Tax Free,2013,9,For vessels and aircraft,1,$7/$18 per barrel
-Tax Free,2013,9,Consumed on brewery premises,14257,$7/$18 per barrel
-Taxable,2013,10,In bottles and cans,12802115,$7/$18 per barrel
-Taxable,2013,10,In kegs,1447175,$7/$18 per barrel
-Taxable,2013,10,"Tax Determined, Premises Use",8338,$7/$18 per barrel
-Tax Free,2013,10,For export,554584,$7/$18 per barrel
-Tax Free,2013,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,10,Consumed on brewery premises,1539,$7/$18 per barrel
-Taxable,2013,11,In bottles and cans,12031360,$7/$18 per barrel
-Taxable,2013,11,In kegs,1251431,$7/$18 per barrel
-Taxable,2013,11,"Tax Determined, Premises Use",7002,$7/$18 per barrel
-Tax Free,2013,11,For export,452863,$7/$18 per barrel
-Tax Free,2013,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2013,11,Consumed on brewery premises,1226,$7/$18 per barrel
-Taxable,2013,12,In bottles and cans,11478530,$7/$18 per barrel
-Taxable,2013,12,In kegs,1480185,$7/$18 per barrel
-Taxable,2013,12,"Tax Determined, Premises Use",115855,$7/$18 per barrel
-Tax Free,2013,12,For export,395989,$7/$18 per barrel
-Tax Free,2013,12,For vessels and aircraft,2,$7/$18 per barrel
-Tax Free,2013,12,Consumed on brewery premises,15507,$7/$18 per barrel
-Taxable,2014,1,In bottles and cans,12390892,$7/$18 per barrel
-Taxable,2014,1,In kegs,1338104,$7/$18 per barrel
-Taxable,2014,1,"Tax Determined, Premises Use",7502,$7/$18 per barrel
-Tax Free,2014,1,For export,351441,$7/$18 per barrel
-Tax Free,2014,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,1,Consumed on brewery premises,1251,$7/$18 per barrel
-Taxable,2014,2,In bottles and cans,12132162,$7/$18 per barrel
-Taxable,2014,2,In kegs,1240984,$7/$18 per barrel
-Taxable,2014,2,"Tax Determined, Premises Use",7496,$7/$18 per barrel
-Tax Free,2014,2,For export,402904,$7/$18 per barrel
-Tax Free,2014,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,2,Consumed on brewery premises,1099,$7/$18 per barrel
-Taxable,2014,3,In bottles and cans,12938927,$7/$18 per barrel
-Taxable,2014,3,In kegs,1627799,$7/$18 per barrel
-Taxable,2014,3,"Tax Determined, Premises Use",110218,$7/$18 per barrel
-Tax Free,2014,3,For export,490133,$7/$18 per barrel
-Tax Free,2014,3,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,3,Consumed on brewery premises,15134,$7/$18 per barrel
-Taxable,2014,4,In bottles and cans,13384105,$7/$18 per barrel
-Taxable,2014,4,In kegs,1518768,$7/$18 per barrel
-Taxable,2014,4,"Tax Determined, Premises Use",6742,$7/$18 per barrel
-Tax Free,2014,4,For export,518471,$7/$18 per barrel
-Tax Free,2014,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,4,Consumed on brewery premises,1716,$7/$18 per barrel
-Taxable,2014,5,In bottles and cans,14520258,$7/$18 per barrel
-Taxable,2014,5,In kegs,1475909,$7/$18 per barrel
-Taxable,2014,5,"Tax Determined, Premises Use",7679,$7/$18 per barrel
-Tax Free,2014,5,For export,534184,$7/$18 per barrel
-Tax Free,2014,5,For vessels and aircraft,29,$7/$18 per barrel
-Tax Free,2014,5,Consumed on brewery premises,1751,$7/$18 per barrel
-Taxable,2014,6,In bottles and cans,14631411,$7/$18 per barrel
-Taxable,2014,6,In kegs,1713913,$7/$18 per barrel
-Taxable,2014,6,"Tax Determined, Premises Use",125880,$7/$18 per barrel
-Tax Free,2014,6,For export,534398,$7/$18 per barrel
-Tax Free,2014,6,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,6,Consumed on brewery premises,17640,$7/$18 per barrel
-Taxable,2014,7,In bottles and cans,14793439,$7/$18 per barrel
-Taxable,2014,7,In kegs,1533395,$7/$18 per barrel
-Taxable,2014,7,"Tax Determined, Premises Use",8028,$7/$18 per barrel
-Tax Free,2014,7,For export,502064,$7/$18 per barrel
-Tax Free,2014,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,7,Consumed on brewery premises,1810,$7/$18 per barrel
-Taxable,2014,8,In bottles and cans,13887322,$7/$18 per barrel
-Taxable,2014,8,In kegs,1420427,$7/$18 per barrel
-Taxable,2014,8,"Tax Determined, Premises Use",8409,$7/$18 per barrel
-Tax Free,2014,8,For export,392942,$7/$18 per barrel
-Tax Free,2014,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,8,Consumed on brewery premises,1747,$7/$18 per barrel
-Taxable,2014,9,In bottles and cans,13230362,$7/$18 per barrel
-Taxable,2014,9,In kegs,1708867,$7/$18 per barrel
-Taxable,2014,9,"Tax Determined, Premises Use",134312,$7/$18 per barrel
-Tax Free,2014,9,For export,412707,$7/$18 per barrel
-Tax Free,2014,9,For vessels and aircraft,21,$7/$18 per barrel
-Tax Free,2014,9,Consumed on brewery premises,20038,$7/$18 per barrel
-Taxable,2014,10,In bottles and cans,12794401,$7/$18 per barrel
-Taxable,2014,10,In kegs,1423017,$7/$18 per barrel
-Taxable,2014,10,"Tax Determined, Premises Use",7981,$7/$18 per barrel
-Tax Free,2014,10,For export,472508,$7/$18 per barrel
-Tax Free,2014,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,10,Consumed on brewery premises,1461,$7/$18 per barrel
-Taxable,2014,11,In bottles and cans,11344554,$7/$18 per barrel
-Taxable,2014,11,In kegs,1177676,$7/$18 per barrel
-Taxable,2014,11,"Tax Determined, Premises Use",6182,$7/$18 per barrel
-Tax Free,2014,11,For export,434104,$7/$18 per barrel
-Tax Free,2014,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2014,11,Consumed on brewery premises,1223,$7/$18 per barrel
-Taxable,2014,12,In bottles and cans,11995291,$7/$18 per barrel
-Taxable,2014,12,In kegs,1595319,$7/$18 per barrel
-Taxable,2014,12,"Tax Determined, Premises Use",192217,$7/$18 per barrel
-Tax Free,2014,12,For export,454735,$7/$18 per barrel
-Tax Free,2014,12,For vessels and aircraft,1130,$7/$18 per barrel
-Tax Free,2014,12,Consumed on brewery premises,20420,$7/$18 per barrel
-Taxable,2015,1,In bottles and cans,11656212,$7/$18 per barrel
-Taxable,2015,1,In kegs,1276226,$7/$18 per barrel
-Taxable,2015,1,"Tax Determined, Premises Use",6806,$7/$18 per barrel
-Tax Free,2015,1,For export,354749,$7/$18 per barrel
-Tax Free,2015,1,For vessels and aircraft,117,$7/$18 per barrel
-Tax Free,2015,1,Consumed on brewery premises,1628,$7/$18 per barrel
-Taxable,2015,2,In bottles and cans,11179924,$7/$18 per barrel
-Taxable,2015,2,In kegs,1262808,$7/$18 per barrel
-Taxable,2015,2,"Tax Determined, Premises Use",6106,$7/$18 per barrel
-Tax Free,2015,2,For export,357498,$7/$18 per barrel
-Tax Free,2015,2,For vessels and aircraft,1,$7/$18 per barrel
-Tax Free,2015,2,Consumed on brewery premises,1523,$7/$18 per barrel
-Taxable,2015,3,In bottles and cans,13321164,$7/$18 per barrel
-Taxable,2015,3,In kegs,1786611,$7/$18 per barrel
-Taxable,2015,3,"Tax Determined, Premises Use",221770,$7/$18 per barrel
-Tax Free,2015,3,For export,559330,$7/$18 per barrel
-Tax Free,2015,3,For vessels and aircraft,30,$7/$18 per barrel
-Tax Free,2015,3,Consumed on brewery premises,23391,$7/$18 per barrel
-Taxable,2015,4,In bottles and cans,13539869,$7/$18 per barrel
-Taxable,2015,4,In kegs,1474192,$7/$18 per barrel
-Taxable,2015,4,"Tax Determined, Premises Use",7170,$7/$18 per barrel
-Tax Free,2015,4,For export,492268,$7/$18 per barrel
-Tax Free,2015,4,For vessels and aircraft,6,$7/$18 per barrel
-Tax Free,2015,4,Consumed on brewery premises,2357,$7/$18 per barrel
-Taxable,2015,5,In bottles and cans,14204583,$7/$18 per barrel
-Taxable,2015,5,In kegs,1410085,$7/$18 per barrel
-Taxable,2015,5,"Tax Determined, Premises Use",6622,$7/$18 per barrel
-Tax Free,2015,5,For export,553068,$7/$18 per barrel
-Tax Free,2015,5,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2015,5,Consumed on brewery premises,2282,$7/$18 per barrel
-Taxable,2015,6,In bottles and cans,14830747,$7/$18 per barrel
-Taxable,2015,6,In kegs,1771569,$7/$18 per barrel
-Taxable,2015,6,"Tax Determined, Premises Use",292373,$7/$18 per barrel
-Tax Free,2015,6,For export,558280,$7/$18 per barrel
-Tax Free,2015,6,For vessels and aircraft,38,$7/$18 per barrel
-Tax Free,2015,6,Consumed on brewery premises,27188,$7/$18 per barrel
-Taxable,2015,7,In bottles and cans,14452093,$7/$18 per barrel
-Taxable,2015,7,In kegs,1452705,$7/$18 per barrel
-Taxable,2015,7,"Tax Determined, Premises Use",6090,$7/$18 per barrel
-Tax Free,2015,7,For export,567138,$7/$18 per barrel
-Tax Free,2015,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2015,7,Consumed on brewery premises,2605,$7/$18 per barrel
-Taxable,2015,8,In bottles and cans,14240391,$7/$18 per barrel
-Taxable,2015,8,In kegs,1413207,$7/$18 per barrel
-Taxable,2015,8,"Tax Determined, Premises Use",7317,$7/$18 per barrel
-Tax Free,2015,8,For export,603719,$7/$18 per barrel
-Tax Free,2015,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2015,8,Consumed on brewery premises,2224,$7/$18 per barrel
-Taxable,2015,9,In bottles and cans,13623068,$7/$18 per barrel
-Taxable,2015,9,In kegs,1719450,$7/$18 per barrel
-Taxable,2015,9,"Tax Determined, Premises Use",349239,$7/$18 per barrel
-Tax Free,2015,9,For export,589239,$7/$18 per barrel
-Tax Free,2015,9,For vessels and aircraft,44,$7/$18 per barrel
-Tax Free,2015,9,Consumed on brewery premises,28853,$7/$18 per barrel
-Taxable,2015,10,In bottles and cans,12739353,$7/$18 per barrel
-Taxable,2015,10,In kegs,1358555,$7/$18 per barrel
-Taxable,2015,10,"Tax Determined, Premises Use",6290,$7/$18 per barrel
-Tax Free,2015,10,For export,585491,$7/$18 per barrel
-Tax Free,2015,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2015,10,Consumed on brewery premises,2174,$7/$18 per barrel
-Taxable,2015,11,In bottles and cans,11188380,$7/$18 per barrel
-Taxable,2015,11,In kegs,1201936,$7/$18 per barrel
-Taxable,2015,11,"Tax Determined, Premises Use",4894,$7/$18 per barrel
-Tax Free,2015,11,For export,553502,$7/$18 per barrel
-Tax Free,2015,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2015,11,Consumed on brewery premises,1612,$7/$18 per barrel
-Taxable,2015,12,In bottles and cans,11719362,$7/$18 per barrel
-Taxable,2015,12,In kegs,1573208,$7/$18 per barrel
-Taxable,2015,12,"Tax Determined, Premises Use",351899,$7/$18 per barrel
-Tax Free,2015,12,For export,439989,$7/$18 per barrel
-Tax Free,2015,12,For vessels and aircraft,28,$7/$18 per barrel
-Tax Free,2015,12,Consumed on brewery premises,23857,$7/$18 per barrel
-Taxable,2016,1,In bottles and cans,11489725,$7/$18 per barrel
-Taxable,2016,1,In kegs,1204228,$7/$18 per barrel
-Taxable,2016,1,"Tax Determined, Premises Use",4803,$7/$18 per barrel
-Tax Free,2016,1,For export,361217,$7/$18 per barrel
-Tax Free,2016,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,1,Consumed on brewery premises,1669,$7/$18 per barrel
-Taxable,2016,2,In bottles and cans,11706959,$7/$18 per barrel
-Taxable,2016,2,In kegs,1238908,$7/$18 per barrel
-Taxable,2016,2,"Tax Determined, Premises Use",5686,$7/$18 per barrel
-Tax Free,2016,2,For export,448309,$7/$18 per barrel
-Tax Free,2016,2,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,2,Consumed on brewery premises,1873,$7/$18 per barrel
-Taxable,2016,3,In bottles and cans,13284374,$7/$18 per barrel
-Taxable,2016,3,In kegs,1725472,$7/$18 per barrel
-Taxable,2016,3,"Tax Determined, Premises Use",401274,$7/$18 per barrel
-Tax Free,2016,3,For export,512911,$7/$18 per barrel
-Tax Free,2016,3,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,3,Consumed on brewery premises,33134,$7/$18 per barrel
-Taxable,2016,4,In bottles and cans,13330387,$7/$18 per barrel
-Taxable,2016,4,In kegs,1413272,$7/$18 per barrel
-Taxable,2016,4,"Tax Determined, Premises Use",5997,$7/$18 per barrel
-Tax Free,2016,4,For export,652116,$7/$18 per barrel
-Tax Free,2016,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,4,Consumed on brewery premises,1974,$7/$18 per barrel
-Taxable,2016,5,In bottles and cans,14264958,$7/$18 per barrel
-Taxable,2016,5,In kegs,1413739,$7/$18 per barrel
-Taxable,2016,5,"Tax Determined, Premises Use",5420,$7/$18 per barrel
-Tax Free,2016,5,For export,546287,$7/$18 per barrel
-Tax Free,2016,5,For vessels and aircraft,3,$7/$18 per barrel
-Tax Free,2016,5,Consumed on brewery premises,2893,$7/$18 per barrel
-Taxable,2016,6,In bottles and cans,14620647,$7/$18 per barrel
-Taxable,2016,6,In kegs,1688378,$7/$18 per barrel
-Taxable,2016,6,"Tax Determined, Premises Use",492387,$7/$18 per barrel
-Tax Free,2016,6,For export,543366,$7/$18 per barrel
-Tax Free,2016,6,For vessels and aircraft,703,$7/$18 per barrel
-Tax Free,2016,6,Consumed on brewery premises,32892,$7/$18 per barrel
-Taxable,2016,7,In bottles and cans,13794217,$7/$18 per barrel
-Taxable,2016,7,In kegs,1309265,$7/$18 per barrel
-Taxable,2016,7,"Tax Determined, Premises Use",5351,$7/$18 per barrel
-Tax Free,2016,7,For export,529554,$7/$18 per barrel
-Tax Free,2016,7,For vessels and aircraft,250,$7/$18 per barrel
-Tax Free,2016,7,Consumed on brewery premises,1950,$7/$18 per barrel
-Taxable,2016,8,In bottles and cans,14810650,$7/$18 per barrel
-Taxable,2016,8,In kegs,1423634,$7/$18 per barrel
-Taxable,2016,8,"Tax Determined, Premises Use",5353,$7/$18 per barrel
-Tax Free,2016,8,For export,550547,$7/$18 per barrel
-Tax Free,2016,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,8,Consumed on brewery premises,2227,$7/$18 per barrel
-Taxable,2016,9,In bottles and cans,13080031,$7/$18 per barrel
-Taxable,2016,9,In kegs,1566415,$7/$18 per barrel
-Taxable,2016,9,"Tax Determined, Premises Use",528974,$7/$18 per barrel
-Tax Free,2016,9,For export,564274,$7/$18 per barrel
-Tax Free,2016,9,For vessels and aircraft,147,$7/$18 per barrel
-Tax Free,2016,9,Consumed on brewery premises,30152,$7/$18 per barrel
-Taxable,2016,10,In bottles and cans,11699120,$7/$18 per barrel
-Taxable,2016,10,In kegs,1294598,$7/$18 per barrel
-Taxable,2016,10,"Tax Determined, Premises Use",4528,$7/$18 per barrel
-Tax Free,2016,10,For export,680517,$7/$18 per barrel
-Tax Free,2016,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,10,Consumed on brewery premises,2364,$7/$18 per barrel
-Taxable,2016,11,In bottles and cans,11189919,$7/$18 per barrel
-Taxable,2016,11,In kegs,1229111,$7/$18 per barrel
-Taxable,2016,11,"Tax Determined, Premises Use",4315,$7/$18 per barrel
-Tax Free,2016,11,For export,672442,$7/$18 per barrel
-Tax Free,2016,11,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2016,11,Consumed on brewery premises,2148,$7/$18 per barrel
-Taxable,2016,12,In bottles and cans,11697755,$7/$18 per barrel
-Taxable,2016,12,In kegs,1419764,$7/$18 per barrel
-Taxable,2016,12,"Tax Determined, Premises Use",497625,$7/$18 per barrel
-Tax Free,2016,12,For export,429443,$7/$18 per barrel
-Tax Free,2016,12,For vessels and aircraft,6,$7/$18 per barrel
-Tax Free,2016,12,Consumed on brewery premises,33571,$7/$18 per barrel
-Taxable,2017,1,In bottles and cans,11679815,$7/$18 per barrel
-Taxable,2017,1,In kegs,1205102,$7/$18 per barrel
-Taxable,2017,1,"Tax Determined, Premises Use",3999,$7/$18 per barrel
-Tax Free,2017,1,For export,539319,$7/$18 per barrel
-Tax Free,2017,1,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2017,1,Consumed on brewery premises,1664,$7/$18 per barrel
-Taxable,2017,2,In bottles and cans,10449800,$7/$18 per barrel
-Taxable,2017,2,In kegs,1148724,$7/$18 per barrel
-Taxable,2017,2,"Tax Determined, Premises Use",3937,$7/$18 per barrel
-Tax Free,2017,2,For export,590662,$7/$18 per barrel
-Tax Free,2017,2,For vessels and aircraft,2,$7/$18 per barrel
-Tax Free,2017,2,Consumed on brewery premises,1459,$7/$18 per barrel
-Taxable,2017,3,In bottles and cans,12811841,$7/$18 per barrel
-Taxable,2017,3,In kegs,1710226,$7/$18 per barrel
-Taxable,2017,3,"Tax Determined, Premises Use",517435,$7/$18 per barrel
-Tax Free,2017,3,For export,593513,$7/$18 per barrel
-Tax Free,2017,3,For vessels and aircraft,38,$7/$18 per barrel
-Tax Free,2017,3,Consumed on brewery premises,27332,$7/$18 per barrel
-Taxable,2017,4,In bottles and cans,12720695,$7/$18 per barrel
-Taxable,2017,4,In kegs,1327194,$7/$18 per barrel
-Taxable,2017,4,"Tax Determined, Premises Use",4437,$7/$18 per barrel
-Tax Free,2017,4,For export,577780,$7/$18 per barrel
-Tax Free,2017,4,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2017,4,Consumed on brewery premises,1890,$7/$18 per barrel
-Taxable,2017,5,In bottles and cans,14900329,$7/$18 per barrel
-Taxable,2017,5,In kegs,1403751,$7/$18 per barrel
-Taxable,2017,5,"Tax Determined, Premises Use",4789,$7/$18 per barrel
-Tax Free,2017,5,For export,540643,$7/$18 per barrel
-Tax Free,2017,5,For vessels and aircraft,8,$7/$18 per barrel
-Tax Free,2017,5,Consumed on brewery premises,1967,$7/$18 per barrel
-Taxable,2017,6,In bottles and cans,14731827,$7/$18 per barrel
-Taxable,2017,6,In kegs,1608382,$7/$18 per barrel
-Taxable,2017,6,"Tax Determined, Premises Use",630023,$7/$18 per barrel
-Tax Free,2017,6,For export,539885,$7/$18 per barrel
-Tax Free,2017,6,For vessels and aircraft,1,$7/$18 per barrel
-Tax Free,2017,6,Consumed on brewery premises,26649,$7/$18 per barrel
-Taxable,2017,7,In bottles and cans,13170721,$7/$18 per barrel
-Taxable,2017,7,In kegs,1263379,$7/$18 per barrel
-Taxable,2017,7,"Tax Determined, Premises Use",5114,$7/$18 per barrel
-Tax Free,2017,7,For export,720037,$7/$18 per barrel
-Tax Free,2017,7,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2017,7,Consumed on brewery premises,1866,$7/$18 per barrel
-Taxable,2017,8,In bottles and cans,13969075,$7/$18 per barrel
-Taxable,2017,8,In kegs,1372531,$7/$18 per barrel
-Taxable,2017,8,"Tax Determined, Premises Use",5467,$7/$18 per barrel
-Tax Free,2017,8,For export,670838,$7/$18 per barrel
-Tax Free,2017,8,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2017,8,Consumed on brewery premises,1784,$7/$18 per barrel
-Taxable,2017,9,In bottles and cans,12357694,$7/$18 per barrel
-Taxable,2017,9,In kegs,1421452,$7/$18 per barrel
-Taxable,2017,9,"Tax Determined, Premises Use",645667,$7/$18 per barrel
-Tax Free,2017,9,For export,561602,$7/$18 per barrel
-Tax Free,2017,9,For vessels and aircraft,52,$7/$18 per barrel
-Tax Free,2017,9,Consumed on brewery premises,28171,$7/$18 per barrel
-Taxable,2017,10,In bottles and cans,12491312,$7/$18 per barrel
-Taxable,2017,10,In kegs,1472610,$7/$18 per barrel
-Taxable,2017,10,"Tax Determined, Premises Use",4696,$7/$18 per barrel
-Tax Free,2017,10,For export,647306,$7/$18 per barrel
-Tax Free,2017,10,For vessels and aircraft,0,$7/$18 per barrel
-Tax Free,2017,10,Consumed on brewery premises,1276,$7/$18 per barrel
-Taxable,2017,11,In bottles and cans,11341763,$7/$18 per barrel
-Taxable,2017,11,In kegs,1206790,$7/$18 per barrel
-Taxable,2017,11,"Tax Determined, Premises Use",3714,$7/$18 per barrel
-Tax Free,2017,11,For export,452865,$7/$18 per barrel
-Tax Free,2017,11,For vessels and aircraft,3484,$7/$18 per barrel
-Tax Free,2017,11,Consumed on brewery premises,1348,$7/$18 per barrel
-Taxable,2017,12,In bottles and cans,10719932,$7/$18 per barrel
-Taxable,2017,12,In kegs,1236385,$7/$18 per barrel
-Taxable,2017,12,"Tax Determined, Premises Use",503106,$7/$18 per barrel
-Tax Free,2017,12,For export,377224,$7/$18 per barrel
-Tax Free,2017,12,For vessels and aircraft,55,$7/$18 per barrel
-Tax Free,2017,12,Consumed on brewery premises,21325,$7/$18 per barrel
-Taxable,2018,1,In bottles and cans,10884988,$3.50/$16 per barrel
-Taxable,2018,1,In barrels and kegs,1241826,$3.50/$16 per barrel
-Taxable,2018,1,"Tax Determined, Premises Use",5366,$3.50/$16 per barrel
-Tax Free,2018,1,For export,573974,$3.50/$16 per barrel
-Tax Free,2018,1,Consumed on brewery premises,1112,$3.50/$16 per barrel
-Taxable,2018,2,In bottles and cans,10148564,$3.50/$16 per barrel
-Taxable,2018,2,In barrels and kegs,1118430,$3.50/$16 per barrel
-Taxable,2018,2,"Tax Determined, Premises Use",4582,$3.50/$16 per barrel
-Tax Free,2018,2,For export,571341,$3.50/$16 per barrel
-Tax Free,2018,2,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2018,2,Consumed on brewery premises,1002,$3.50/$16 per barrel
-Taxable,2018,3,In bottles and cans,12410627,$3.50/$16 per barrel
-Taxable,2018,3,In barrels and kegs,1550281,$3.50/$16 per barrel
-Taxable,2018,3,"Tax Determined, Premises Use",685517,$3.50/$16 per barrel
-Tax Free,2018,3,For export,605640,$3.50/$16 per barrel
-Tax Free,2018,3,For vessels and aircraft,10,$3.50/$16 per barrel
-Tax Free,2018,3,Consumed on brewery premises,25044,$3.50/$16 per barrel
-Taxable,2018,4,In bottles and cans,12821206,$3.50/$16 per barrel
-Taxable,2018,4,In barrels and kegs,1302101,$3.50/$16 per barrel
-Taxable,2018,4,"Tax Determined, Premises Use",4842,$3.50/$16 per barrel
-Tax Free,2018,4,For export,588434,$3.50/$16 per barrel
-Tax Free,2018,4,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2018,4,Consumed on brewery premises,1076,$3.50/$16 per barrel
-Taxable,2018,5,In bottles and cans,13875500,$3.50/$16 per barrel
-Taxable,2018,5,In barrels and kegs,1382342,$3.50/$16 per barrel
-Taxable,2018,5,"Tax Determined, Premises Use",5736,$3.50/$16 per barrel
-Tax Free,2018,5,For export,654536,$3.50/$16 per barrel
-Tax Free,2018,5,For vessels and aircraft,233,$3.50/$16 per barrel
-Tax Free,2018,5,Consumed on brewery premises,1146,$3.50/$16 per barrel
-Taxable,2018,6,In bottles and cans,14169508,$3.50/$16 per barrel
-Taxable,2018,6,In barrels and kegs,1498143,$3.50/$16 per barrel
-Taxable,2018,6,"Tax Determined, Premises Use",802638,$3.50/$16 per barrel
-Tax Free,2018,6,For export,692704,$3.50/$16 per barrel
-Tax Free,2018,6,For vessels and aircraft,451,$3.50/$16 per barrel
-Tax Free,2018,6,Consumed on brewery premises,28204,$3.50/$16 per barrel
-Taxable,2018,7,In bottles and cans,13936154,$3.50/$16 per barrel
-Taxable,2018,7,In barrels and kegs,1239547,$3.50/$16 per barrel
-Taxable,2018,7,"Tax Determined, Premises Use",6579,$3.50/$16 per barrel
-Tax Free,2018,7,For export,755920,$3.50/$16 per barrel
-Tax Free,2018,7,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2018,7,Consumed on brewery premises,2576,$3.50/$16 per barrel
-Taxable,2018,8,In bottles and cans,13927580,$3.50/$16 per barrel
-Taxable,2018,8,In barrels and kegs,1355873,$3.50/$16 per barrel
-Taxable,2018,8,"Tax Determined, Premises Use",6752,$3.50/$16 per barrel
-Tax Free,2018,8,For export,715332,$3.50/$16 per barrel
-Tax Free,2018,8,For vessels and aircraft,1915,$3.50/$16 per barrel
-Tax Free,2018,8,Consumed on brewery premises,1296,$3.50/$16 per barrel
-Taxable,2018,9,In bottles and cans,11993132,$3.50/$16 per barrel
-Taxable,2018,9,In barrels and kegs,1356854,$3.50/$16 per barrel
-Taxable,2018,9,"Tax Determined, Premises Use",803529,$3.50/$16 per barrel
-Tax Free,2018,9,For export,463754,$3.50/$16 per barrel
-Tax Free,2018,9,For vessels and aircraft,12,$3.50/$16 per barrel
-Tax Free,2018,9,Consumed on brewery premises,26381,$3.50/$16 per barrel
-Taxable,2018,10,In bottles and cans,13895668,$3.50/$16 per barrel
-Taxable,2018,10,In barrels and kegs,1252668,$3.50/$16 per barrel
-Taxable,2018,10,"Tax Determined, Premises Use",5590,$3.50/$16 per barrel
-Tax Free,2018,10,For export,513223,$3.50/$16 per barrel
-Tax Free,2018,10,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2018,10,Consumed on brewery premises,1107,$3.50/$16 per barrel
-Taxable,2018,11,In bottles and cans,10737490,$3.50/$16 per barrel
-Taxable,2018,11,In barrels and kegs,1087854,$3.50/$16 per barrel
-Taxable,2018,11,"Tax Determined, Premises Use",4965,$3.50/$16 per barrel
-Tax Free,2018,11,For export,414642,$3.50/$16 per barrel
-Tax Free,2018,11,For vessels and aircraft,9,$3.50/$16 per barrel
-Tax Free,2018,11,Consumed on brewery premises,964,$3.50/$16 per barrel
-Taxable,2018,12,In bottles and cans,11007154,$3.50/$16 per barrel
-Taxable,2018,12,In barrels and kegs,1271402,$3.50/$16 per barrel
-Taxable,2018,12,"Tax Determined, Premises Use",839121,$3.50/$16 per barrel
-Tax Free,2018,12,For export,359305,$3.50/$16 per barrel
-Tax Free,2018,12,For vessels and aircraft,2,$3.50/$16 per barrel
-Tax Free,2018,12,Consumed on brewery premises,30149,$3.50/$16 per barrel
-Taxable,2019,1,In bottles and cans,11196720,$3.50/$16 per barrel
-Taxable,2019,1,In barrels and kegs,1196450,$3.50/$16 per barrel
-Taxable,2019,1,"Tax Determined, Premises Use",4509,$3.50/$16 per barrel
-Tax Free,2019,1,For export,416290,$3.50/$16 per barrel
-Tax Free,2019,1,Consumed on brewery premises,1097,$3.50/$16 per barrel
-Taxable,2019,2,In bottles and cans,10362380,$3.50/$16 per barrel
-Taxable,2019,2,In barrels and kegs,1064546,$3.50/$16 per barrel
-Taxable,2019,2,"Tax Determined, Premises Use",3886,$3.50/$16 per barrel
-Tax Free,2019,2,For export,442637,$3.50/$16 per barrel
-Tax Free,2019,2,Consumed on brewery premises,704,$3.50/$16 per barrel
-Taxable,2019,3,In bottles and cans,12242914,$3.50/$16 per barrel
-Taxable,2019,3,In barrels and kegs,1387609,$3.50/$16 per barrel
-Taxable,2019,3,"Tax Determined, Premises Use",739765,$3.50/$16 per barrel
-Tax Free,2019,3,For export,420161,$3.50/$16 per barrel
-Tax Free,2019,3,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2019,3,Consumed on brewery premises,23721,$3.50/$16 per barrel
-Taxable,2019,4,In bottles and cans,12912591,$3.50/$16 per barrel
-Taxable,2019,4,In barrels and kegs,1284021,$3.50/$16 per barrel
-Taxable,2019,4,"Tax Determined, Premises Use",3656,$3.50/$16 per barrel
-Tax Free,2019,4,For export,451810,$3.50/$16 per barrel
-Tax Free,2019,4,For vessels and aircraft,5,$3.50/$16 per barrel
-Tax Free,2019,4,Consumed on brewery premises,836,$3.50/$16 per barrel
-Taxable,2019,5,In bottles and cans,13880744,$3.50/$16 per barrel
-Taxable,2019,5,In barrels and kegs,1292050,$3.50/$16 per barrel
-Taxable,2019,5,"Tax Determined, Premises Use",2774,$3.50/$16 per barrel
-Tax Free,2019,5,For export,354177,$3.50/$16 per barrel
-Tax Free,2019,5,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2019,5,Consumed on brewery premises,1002,$3.50/$16 per barrel
-Taxable,2019,6,In bottles and cans,13485781,$3.50/$16 per barrel
-Taxable,2019,6,In barrels and kegs,1321752,$3.50/$16 per barrel
-Taxable,2019,6,"Tax Determined, Premises Use",863390,$3.50/$16 per barrel
-Tax Free,2019,6,For export,415847,$3.50/$16 per barrel
-Tax Free,2019,6,For vessels and aircraft,348,$3.50/$16 per barrel
-Tax Free,2019,6,Consumed on brewery premises,24280,$3.50/$16 per barrel
-Taxable,2019,7,In bottles and cans,13608099,$3.50/$16 per barrel
-Taxable,2019,7,In barrels and kegs,1208898,$3.50/$16 per barrel
-Taxable,2019,7,"Tax Determined, Premises Use",3312,$3.50/$16 per barrel
-Tax Free,2019,7,For export,484266,$3.50/$16 per barrel
-Tax Free,2019,7,Consumed on brewery premises,949,$3.50/$16 per barrel
-Taxable,2019,8,In bottles and cans,13140604,$3.50/$16 per barrel
-Taxable,2019,8,In barrels and kegs,1180431,$3.50/$16 per barrel
-Taxable,2019,8,"Tax Determined, Premises Use",2962,$3.50/$16 per barrel
-Tax Free,2019,8,For export,440332,$3.50/$16 per barrel
-Tax Free,2019,8,For vessels and aircraft,34086,$3.50/$16 per barrel
-Tax Free,2019,8,Consumed on brewery premises,854,$3.50/$16 per barrel
-Taxable,2019,9,In bottles and cans,12528418,$3.50/$16 per barrel
-Taxable,2019,9,In barrels and kegs,1297699,$3.50/$16 per barrel
-Taxable,2019,9,"Tax Determined, Premises Use",888468,$3.50/$16 per barrel
-Tax Free,2019,9,For export,434759,$3.50/$16 per barrel
-Tax Free,2019,9,For vessels and aircraft,2,$3.50/$16 per barrel
-Tax Free,2019,9,Consumed on brewery premises,28666,$3.50/$16 per barrel
-Taxable,2019,10,In bottles and cans,11965871,$3.50/$16 per barrel
-Taxable,2019,10,In barrels and kegs,1199168,$3.50/$16 per barrel
-Taxable,2019,10,"Tax Determined, Premises Use",2861,$3.50/$16 per barrel
-Tax Free,2019,10,For export,515181,$3.50/$16 per barrel
-Tax Free,2019,10,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2019,10,Consumed on brewery premises,1077,$3.50/$16 per barrel
-Taxable,2019,11,In bottles and cans,11355468,$3.50/$16 per barrel
-Taxable,2019,11,In barrels and kegs,1038243,$3.50/$16 per barrel
-Taxable,2019,11,"Tax Determined, Premises Use",2622,$3.50/$16 per barrel
-Tax Free,2019,11,For export,326437,$3.50/$16 per barrel
-Tax Free,2019,11,For vessels and aircraft,0,$3.50/$16 per barrel
-Tax Free,2019,11,Consumed on brewery premises,752,$3.50/$16 per barrel
-Taxable,2019,12,In bottles and cans,11669254,$3.50/$16 per barrel
-Taxable,2019,12,In barrels and kegs,1253497,$3.50/$16 per barrel
-Taxable,2019,12,"Tax Determined, Premises Use",902554,$3.50/$16 per barrel
-Tax Free,2019,12,For export,361068,$3.50/$16 per barrel
-Tax Free,2019,12,For vessels and aircraft,1,$3.50/$16 per barrel
-Tax Free,2019,12,Consumed on brewery premises,23886,$3.50/$16 per barrel
+"tax_status","year","month","type","month_current","tax_rate"
+"Taxable",2008,1,"In bottles and cans",13222104,"$7/$18 per barrel"
+"Taxable",2008,1,"In barrels and kegs",1371239,"$7/$18 per barrel"
+"Taxable",2008,1,"Tax Determined, Premises Use",7426,"$7/$18 per barrel"
+"Tax Free",2008,1,"For export",262985,"$7/$18 per barrel"
+"Tax Free",2008,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,1,"Consumed on brewery premises",708,"$7/$18 per barrel"
+"Taxable",2008,2,"In bottles and cans",13051864,"$7/$18 per barrel"
+"Taxable",2008,2,"In barrels and kegs",1250974,"$7/$18 per barrel"
+"Taxable",2008,2,"Tax Determined, Premises Use",7558,"$7/$18 per barrel"
+"Tax Free",2008,2,"For export",286593,"$7/$18 per barrel"
+"Tax Free",2008,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,2,"Consumed on brewery premises",671,"$7/$18 per barrel"
+"Taxable",2008,3,"In bottles and cans",13901582,"$7/$18 per barrel"
+"Taxable",2008,3,"In barrels and kegs",1449849,"$7/$18 per barrel"
+"Taxable",2008,3,"Tax Determined, Premises Use",88816,"$7/$18 per barrel"
+"Tax Free",2008,3,"For export",309529,"$7/$18 per barrel"
+"Tax Free",2008,3,"For vessels and aircraft",3,"$7/$18 per barrel"
+"Tax Free",2008,3,"Consumed on brewery premises",7417,"$7/$18 per barrel"
+"Taxable",2008,4,"In bottles and cans",14361125,"$7/$18 per barrel"
+"Taxable",2008,4,"In barrels and kegs",1457124,"$7/$18 per barrel"
+"Taxable",2008,4,"Tax Determined, Premises Use",8561,"$7/$18 per barrel"
+"Tax Free",2008,4,"For export",361949,"$7/$18 per barrel"
+"Tax Free",2008,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,4,"Consumed on brewery premises",821,"$7/$18 per barrel"
+"Taxable",2008,5,"In bottles and cans",15421462,"$7/$18 per barrel"
+"Taxable",2008,5,"In barrels and kegs",1489290,"$7/$18 per barrel"
+"Taxable",2008,5,"Tax Determined, Premises Use",8720,"$7/$18 per barrel"
+"Tax Free",2008,5,"For export",356217,"$7/$18 per barrel"
+"Tax Free",2008,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,5,"Consumed on brewery premises",1112,"$7/$18 per barrel"
+"Taxable",2008,6,"In bottles and cans",15232754,"$7/$18 per barrel"
+"Taxable",2008,6,"In barrels and kegs",1609215,"$7/$18 per barrel"
+"Taxable",2008,6,"Tax Determined, Premises Use",94611,"$7/$18 per barrel"
+"Tax Free",2008,6,"For export",393200,"$7/$18 per barrel"
+"Tax Free",2008,6,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,6,"Consumed on brewery premises",7671,"$7/$18 per barrel"
+"Taxable",2008,7,"In bottles and cans",15146751,"$7/$18 per barrel"
+"Taxable",2008,7,"In barrels and kegs",1508853,"$7/$18 per barrel"
+"Taxable",2008,7,"Tax Determined, Premises Use",7379,"$7/$18 per barrel"
+"Tax Free",2008,7,"For export",386143,"$7/$18 per barrel"
+"Tax Free",2008,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,7,"Consumed on brewery premises",1107,"$7/$18 per barrel"
+"Taxable",2008,8,"In bottles and cans",14973940,"$7/$18 per barrel"
+"Taxable",2008,8,"In barrels and kegs",1470549,"$7/$18 per barrel"
+"Taxable",2008,8,"Tax Determined, Premises Use",6700,"$7/$18 per barrel"
+"Tax Free",2008,8,"For export",343909,"$7/$18 per barrel"
+"Tax Free",2008,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,8,"Consumed on brewery premises",989,"$7/$18 per barrel"
+"Taxable",2008,9,"In bottles and cans",14425354,"$7/$18 per barrel"
+"Taxable",2008,9,"In barrels and kegs",1549416,"$7/$18 per barrel"
+"Taxable",2008,9,"Tax Determined, Premises Use",99250,"$7/$18 per barrel"
+"Tax Free",2008,9,"For export",339918,"$7/$18 per barrel"
+"Tax Free",2008,9,"For vessels and aircraft",101,"$7/$18 per barrel"
+"Tax Free",2008,9,"Consumed on brewery premises",8688,"$7/$18 per barrel"
+"Taxable",2008,10,"In bottles and cans",13544598,"$7/$18 per barrel"
+"Taxable",2008,10,"In barrels and kegs",1407315,"$7/$18 per barrel"
+"Taxable",2008,10,"Tax Determined, Premises Use",7430,"$7/$18 per barrel"
+"Tax Free",2008,10,"For export",358387,"$7/$18 per barrel"
+"Tax Free",2008,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,10,"Consumed on brewery premises",806,"$7/$18 per barrel"
+"Taxable",2008,11,"In bottles and cans",11895613,"$7/$18 per barrel"
+"Taxable",2008,11,"In barrels and kegs",1230087,"$7/$18 per barrel"
+"Taxable",2008,11,"Tax Determined, Premises Use",6424,"$7/$18 per barrel"
+"Tax Free",2008,11,"For export",363547,"$7/$18 per barrel"
+"Tax Free",2008,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,11,"Consumed on brewery premises",619,"$7/$18 per barrel"
+"Taxable",2008,12,"In bottles and cans",11670121,"$7/$18 per barrel"
+"Taxable",2008,12,"In barrels and kegs",1419144,"$7/$18 per barrel"
+"Taxable",2008,12,"Tax Determined, Premises Use",86744,"$7/$18 per barrel"
+"Tax Free",2008,12,"For export",333236,"$7/$18 per barrel"
+"Tax Free",2008,12,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2008,12,"Consumed on brewery premises",6771,"$7/$18 per barrel"
+"Taxable",2009,1,"In bottles and cans",13081831,"$7/$18 per barrel"
+"Taxable",2009,1,"In barrels and kegs",1230788,"$7/$18 per barrel"
+"Taxable",2009,1,"Tax Determined, Premises Use",6033,"$7/$18 per barrel"
+"Tax Free",2009,1,"For export",334415,"$7/$18 per barrel"
+"Tax Free",2009,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,1,"Consumed on brewery premises",619,"$7/$18 per barrel"
+"Taxable",2009,2,"In bottles and cans",12739731,"$7/$18 per barrel"
+"Taxable",2009,2,"In barrels and kegs",1290827,"$7/$18 per barrel"
+"Taxable",2009,2,"Tax Determined, Premises Use",5934,"$7/$18 per barrel"
+"Tax Free",2009,2,"For export",262123,"$7/$18 per barrel"
+"Tax Free",2009,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,2,"Consumed on brewery premises",467,"$7/$18 per barrel"
+"Taxable",2009,3,"In bottles and cans",14167308,"$7/$18 per barrel"
+"Taxable",2009,3,"In barrels and kegs",1497154,"$7/$18 per barrel"
+"Taxable",2009,3,"Tax Determined, Premises Use",82923,"$7/$18 per barrel"
+"Tax Free",2009,3,"For export",300475,"$7/$18 per barrel"
+"Tax Free",2009,3,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,3,"Consumed on brewery premises",6980,"$7/$18 per barrel"
+"Taxable",2009,4,"In bottles and cans",14384698,"$7/$18 per barrel"
+"Taxable",2009,4,"In barrels and kegs",1504016,"$7/$18 per barrel"
+"Taxable",2009,4,"Tax Determined, Premises Use",5798,"$7/$18 per barrel"
+"Tax Free",2009,4,"For export",295526,"$7/$18 per barrel"
+"Tax Free",2009,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,4,"Consumed on brewery premises",768,"$7/$18 per barrel"
+"Taxable",2009,5,"In bottles and cans",15393903,"$7/$18 per barrel"
+"Taxable",2009,5,"In barrels and kegs",1474095,"$7/$18 per barrel"
+"Taxable",2009,5,"Tax Determined, Premises Use",5763,"$7/$18 per barrel"
+"Tax Free",2009,5,"For export",338519,"$7/$18 per barrel"
+"Tax Free",2009,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,5,"Consumed on brewery premises",862,"$7/$18 per barrel"
+"Taxable",2009,6,"In bottles and cans",15392420,"$7/$18 per barrel"
+"Taxable",2009,6,"In barrels and kegs",1661000,"$7/$18 per barrel"
+"Taxable",2009,6,"Tax Determined, Premises Use",87133,"$7/$18 per barrel"
+"Tax Free",2009,6,"For export",356256,"$7/$18 per barrel"
+"Tax Free",2009,6,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,6,"Consumed on brewery premises",6660,"$7/$18 per barrel"
+"Taxable",2009,7,"In bottles and cans",15496866,"$7/$18 per barrel"
+"Taxable",2009,7,"In barrels and kegs",1485738,"$7/$18 per barrel"
+"Taxable",2009,7,"Tax Determined, Premises Use",6970,"$7/$18 per barrel"
+"Tax Free",2009,7,"For export",457739,"$7/$18 per barrel"
+"Tax Free",2009,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,7,"Consumed on brewery premises",1313,"$7/$18 per barrel"
+"Taxable",2009,8,"In bottles and cans",14284174,"$7/$18 per barrel"
+"Taxable",2009,8,"In barrels and kegs",1428279,"$7/$18 per barrel"
+"Taxable",2009,8,"Tax Determined, Premises Use",5647,"$7/$18 per barrel"
+"Tax Free",2009,8,"For export",333648,"$7/$18 per barrel"
+"Tax Free",2009,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,8,"Consumed on brewery premises",1115,"$7/$18 per barrel"
+"Taxable",2009,9,"In bottles and cans",13643212,"$7/$18 per barrel"
+"Taxable",2009,9,"In barrels and kegs",1595488,"$7/$18 per barrel"
+"Taxable",2009,9,"Tax Determined, Premises Use",93891,"$7/$18 per barrel"
+"Tax Free",2009,9,"For export",297696,"$7/$18 per barrel"
+"Tax Free",2009,9,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,9,"Consumed on brewery premises",8471,"$7/$18 per barrel"
+"Taxable",2009,10,"In bottles and cans",13028910,"$7/$18 per barrel"
+"Taxable",2009,10,"In barrels and kegs",1381908,"$7/$18 per barrel"
+"Taxable",2009,10,"Tax Determined, Premises Use",6000,"$7/$18 per barrel"
+"Tax Free",2009,10,"For export",319415,"$7/$18 per barrel"
+"Tax Free",2009,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,10,"Consumed on brewery premises",727,"$7/$18 per barrel"
+"Taxable",2009,11,"In bottles and cans",11491624,"$7/$18 per barrel"
+"Taxable",2009,11,"In barrels and kegs",1243265,"$7/$18 per barrel"
+"Taxable",2009,11,"Tax Determined, Premises Use",5506,"$7/$18 per barrel"
+"Tax Free",2009,11,"For export",336206,"$7/$18 per barrel"
+"Tax Free",2009,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2009,11,"Consumed on brewery premises",727,"$7/$18 per barrel"
+"Taxable",2009,12,"In bottles and cans",11814020,"$7/$18 per barrel"
+"Taxable",2009,12,"In barrels and kegs",1376754,"$7/$18 per barrel"
+"Taxable",2009,12,"Tax Determined, Premises Use",99087,"$7/$18 per barrel"
+"Tax Free",2009,12,"For export",300591,"$7/$18 per barrel"
+"Tax Free",2009,12,"For vessels and aircraft",19,"$7/$18 per barrel"
+"Tax Free",2009,12,"Consumed on brewery premises",5695,"$7/$18 per barrel"
+"Taxable",2010,1,"In bottles and cans",11908922,"$7/$18 per barrel"
+"Taxable",2010,1,"In barrels and kegs",1245143,"$7/$18 per barrel"
+"Taxable",2010,1,"Tax Determined, Premises Use",5267,"$7/$18 per barrel"
+"Tax Free",2010,1,"For export",224066,"$7/$18 per barrel"
+"Tax Free",2010,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,1,"Consumed on brewery premises",913,"$7/$18 per barrel"
+"Taxable",2010,2,"In bottles and cans",11847648,"$7/$18 per barrel"
+"Taxable",2010,2,"In barrels and kegs",1308677,"$7/$18 per barrel"
+"Taxable",2010,2,"Tax Determined, Premises Use",4736,"$7/$18 per barrel"
+"Tax Free",2010,2,"For export",263721,"$7/$18 per barrel"
+"Tax Free",2010,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,2,"Consumed on brewery premises",719,"$7/$18 per barrel"
+"Taxable",2010,3,"In bottles and cans",14212648,"$7/$18 per barrel"
+"Taxable",2010,3,"In barrels and kegs",1658845,"$7/$18 per barrel"
+"Taxable",2010,3,"Tax Determined, Premises Use",101336,"$7/$18 per barrel"
+"Tax Free",2010,3,"For export",377355,"$7/$18 per barrel"
+"Tax Free",2010,3,"For vessels and aircraft",27,"$7/$18 per barrel"
+"Tax Free",2010,3,"Consumed on brewery premises",6865,"$7/$18 per barrel"
+"Taxable",2010,4,"In bottles and cans",13758882,"$7/$18 per barrel"
+"Taxable",2010,4,"In barrels and kegs",1486282,"$7/$18 per barrel"
+"Taxable",2010,4,"Tax Determined, Premises Use",5972,"$7/$18 per barrel"
+"Tax Free",2010,4,"For export",397695,"$7/$18 per barrel"
+"Tax Free",2010,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,4,"Consumed on brewery premises",748,"$7/$18 per barrel"
+"Taxable",2010,5,"In bottles and cans",15066715,"$7/$18 per barrel"
+"Taxable",2010,5,"In barrels and kegs",1507136,"$7/$18 per barrel"
+"Taxable",2010,5,"Tax Determined, Premises Use",5916,"$7/$18 per barrel"
+"Tax Free",2010,5,"For export",359192,"$7/$18 per barrel"
+"Tax Free",2010,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,5,"Consumed on brewery premises",895,"$7/$18 per barrel"
+"Taxable",2010,6,"In bottles and cans",15624610,"$7/$18 per barrel"
+"Taxable",2010,6,"In barrels and kegs",1717761,"$7/$18 per barrel"
+"Taxable",2010,6,"Tax Determined, Premises Use",112498,"$7/$18 per barrel"
+"Tax Free",2010,6,"For export",421907,"$7/$18 per barrel"
+"Tax Free",2010,6,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,6,"Consumed on brewery premises",7327,"$7/$18 per barrel"
+"Taxable",2010,7,"In bottles and cans",15254822,"$7/$18 per barrel"
+"Taxable",2010,7,"In barrels and kegs",1472824,"$7/$18 per barrel"
+"Taxable",2010,7,"Tax Determined, Premises Use",7120,"$7/$18 per barrel"
+"Tax Free",2010,7,"For export",371171,"$7/$18 per barrel"
+"Tax Free",2010,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,7,"Consumed on brewery premises",1106,"$7/$18 per barrel"
+"Taxable",2010,8,"In bottles and cans",15357493,"$7/$18 per barrel"
+"Taxable",2010,8,"In barrels and kegs",1518152,"$7/$18 per barrel"
+"Taxable",2010,8,"Tax Determined, Premises Use",6839,"$7/$18 per barrel"
+"Tax Free",2010,8,"For export",312781,"$7/$18 per barrel"
+"Tax Free",2010,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,8,"Consumed on brewery premises",1126,"$7/$18 per barrel"
+"Taxable",2010,9,"In bottles and cans",13213621,"$7/$18 per barrel"
+"Taxable",2010,9,"In barrels and kegs",1623762,"$7/$18 per barrel"
+"Taxable",2010,9,"Tax Determined, Premises Use",125524,"$7/$18 per barrel"
+"Tax Free",2010,9,"For export",337550,"$7/$18 per barrel"
+"Tax Free",2010,9,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,9,"Consumed on brewery premises",6613,"$7/$18 per barrel"
+"Taxable",2010,10,"In bottles and cans",12458328,"$7/$18 per barrel"
+"Taxable",2010,10,"In barrels and kegs",1357309,"$7/$18 per barrel"
+"Taxable",2010,10,"Tax Determined, Premises Use",6888,"$7/$18 per barrel"
+"Tax Free",2010,10,"For export",332671,"$7/$18 per barrel"
+"Tax Free",2010,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,10,"Consumed on brewery premises",1006,"$7/$18 per barrel"
+"Taxable",2010,11,"In bottles and cans",11950035,"$7/$18 per barrel"
+"Taxable",2010,11,"In barrels and kegs",1338822,"$7/$18 per barrel"
+"Taxable",2010,11,"Tax Determined, Premises Use",6891,"$7/$18 per barrel"
+"Tax Free",2010,11,"For export",352475,"$7/$18 per barrel"
+"Tax Free",2010,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,11,"Consumed on brewery premises",747,"$7/$18 per barrel"
+"Taxable",2010,12,"In bottles and cans",12290553,"$7/$18 per barrel"
+"Taxable",2010,12,"In barrels and kegs",1465815,"$7/$18 per barrel"
+"Taxable",2010,12,"Tax Determined, Premises Use",114262,"$7/$18 per barrel"
+"Tax Free",2010,12,"For export",330460,"$7/$18 per barrel"
+"Tax Free",2010,12,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2010,12,"Consumed on brewery premises",6237,"$7/$18 per barrel"
+"Taxable",2011,1,"In bottles and cans",11571819,"$7/$18 per barrel"
+"Taxable",2011,1,"In barrels and kegs",1245125,"$7/$18 per barrel"
+"Taxable",2011,1,"Tax Determined, Premises Use",5989,"$7/$18 per barrel"
+"Tax Free",2011,1,"For export",264669,"$7/$18 per barrel"
+"Tax Free",2011,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,1,"Consumed on brewery premises",886,"$7/$18 per barrel"
+"Taxable",2011,2,"In bottles and cans",11509264,"$7/$18 per barrel"
+"Taxable",2011,2,"In barrels and kegs",1234147,"$7/$18 per barrel"
+"Taxable",2011,2,"Tax Determined, Premises Use",6036,"$7/$18 per barrel"
+"Tax Free",2011,2,"For export",279150,"$7/$18 per barrel"
+"Tax Free",2011,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,2,"Consumed on brewery premises",942,"$7/$18 per barrel"
+"Taxable",2011,3,"In bottles and cans",14516040,"$7/$18 per barrel"
+"Taxable",2011,3,"In barrels and kegs",1726446,"$7/$18 per barrel"
+"Taxable",2011,3,"Tax Determined, Premises Use",103125,"$7/$18 per barrel"
+"Tax Free",2011,3,"For export",387393,"$7/$18 per barrel"
+"Tax Free",2011,3,"For vessels and aircraft",2,"$7/$18 per barrel"
+"Tax Free",2011,3,"Consumed on brewery premises",6185,"$7/$18 per barrel"
+"Taxable",2011,4,"In bottles and cans",13385656,"$7/$18 per barrel"
+"Taxable",2011,4,"In barrels and kegs",1429143,"$7/$18 per barrel"
+"Taxable",2011,4,"Tax Determined, Premises Use",6960,"$7/$18 per barrel"
+"Tax Free",2011,4,"For export",376059,"$7/$18 per barrel"
+"Tax Free",2011,4,"For vessels and aircraft",61,"$7/$18 per barrel"
+"Tax Free",2011,4,"Consumed on brewery premises",1089,"$7/$18 per barrel"
+"Taxable",2011,5,"In bottles and cans",14615283,"$7/$18 per barrel"
+"Taxable",2011,5,"In barrels and kegs",1483857,"$7/$18 per barrel"
+"Taxable",2011,5,"Tax Determined, Premises Use",6589,"$7/$18 per barrel"
+"Tax Free",2011,5,"For export",394035,"$7/$18 per barrel"
+"Tax Free",2011,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,5,"Consumed on brewery premises",1458,"$7/$18 per barrel"
+"Taxable",2011,6,"In bottles and cans",15726720,"$7/$18 per barrel"
+"Taxable",2011,6,"In barrels and kegs",1718331,"$7/$18 per barrel"
+"Taxable",2011,6,"Tax Determined, Premises Use",106228,"$7/$18 per barrel"
+"Tax Free",2011,6,"For export",391694,"$7/$18 per barrel"
+"Tax Free",2011,6,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,6,"Consumed on brewery premises",6730,"$7/$18 per barrel"
+"Taxable",2011,7,"In bottles and cans",13839549,"$7/$18 per barrel"
+"Taxable",2011,7,"In barrels and kegs",1385067,"$7/$18 per barrel"
+"Taxable",2011,7,"Tax Determined, Premises Use",6825,"$7/$18 per barrel"
+"Tax Free",2011,7,"For export",398726,"$7/$18 per barrel"
+"Tax Free",2011,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,7,"Consumed on brewery premises",2145,"$7/$18 per barrel"
+"Taxable",2011,8,"In bottles and cans",14643159,"$7/$18 per barrel"
+"Taxable",2011,8,"In barrels and kegs",1567155,"$7/$18 per barrel"
+"Taxable",2011,8,"Tax Determined, Premises Use",7887,"$7/$18 per barrel"
+"Tax Free",2011,8,"For export",367166,"$7/$18 per barrel"
+"Tax Free",2011,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,8,"Consumed on brewery premises",1591,"$7/$18 per barrel"
+"Taxable",2011,9,"In bottles and cans",13774050,"$7/$18 per barrel"
+"Taxable",2011,9,"In barrels and kegs",1624151,"$7/$18 per barrel"
+"Taxable",2011,9,"Tax Determined, Premises Use",117859,"$7/$18 per barrel"
+"Tax Free",2011,9,"For export",342365,"$7/$18 per barrel"
+"Tax Free",2011,9,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,9,"Consumed on brewery premises",10042,"$7/$18 per barrel"
+"Taxable",2011,10,"In bottles and cans",12236621,"$7/$18 per barrel"
+"Taxable",2011,10,"In barrels and kegs",1369396,"$7/$18 per barrel"
+"Taxable",2011,10,"Tax Determined, Premises Use",7509,"$7/$18 per barrel"
+"Tax Free",2011,10,"For export",414196,"$7/$18 per barrel"
+"Tax Free",2011,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,10,"Consumed on brewery premises",1142,"$7/$18 per barrel"
+"Taxable",2011,11,"In bottles and cans",11878883,"$7/$18 per barrel"
+"Taxable",2011,11,"In barrels and kegs",1332015,"$7/$18 per barrel"
+"Taxable",2011,11,"Tax Determined, Premises Use",7336,"$7/$18 per barrel"
+"Tax Free",2011,11,"For export",417101,"$7/$18 per barrel"
+"Tax Free",2011,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,11,"Consumed on brewery premises",1029,"$7/$18 per barrel"
+"Taxable",2011,12,"In bottles and cans",11741836,"$7/$18 per barrel"
+"Taxable",2011,12,"In barrels and kegs",1463063,"$7/$18 per barrel"
+"Taxable",2011,12,"Tax Determined, Premises Use",108521,"$7/$18 per barrel"
+"Tax Free",2011,12,"For export",385447,"$7/$18 per barrel"
+"Tax Free",2011,12,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2011,12,"Consumed on brewery premises",6137,"$7/$18 per barrel"
+"Taxable",2012,1,"In bottles and cans",11955351,"$7/$18 per barrel"
+"Taxable",2012,1,"In barrels and kegs",1349271,"$7/$18 per barrel"
+"Taxable",2012,1,"Tax Determined, Premises Use",6501,"$7/$18 per barrel"
+"Tax Free",2012,1,"For export",321453,"$7/$18 per barrel"
+"Tax Free",2012,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,1,"Consumed on brewery premises",1044,"$7/$18 per barrel"
+"Taxable",2012,2,"In bottles and cans",12332071,"$7/$18 per barrel"
+"Taxable",2012,2,"In kegs",1376460,"$7/$18 per barrel"
+"Taxable",2012,2,"Tax Determined, Premises Use",6715,"$7/$18 per barrel"
+"Tax Free",2012,2,"For export",357753,"$7/$18 per barrel"
+"Tax Free",2012,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,2,"Consumed on brewery premises",1121,"$7/$18 per barrel"
+"Taxable",2012,3,"In bottles and cans",13773526,"$7/$18 per barrel"
+"Taxable",2012,3,"In kegs",1686628,"$7/$18 per barrel"
+"Taxable",2012,3,"Tax Determined, Premises Use",102876,"$7/$18 per barrel"
+"Tax Free",2012,3,"For export",416950,"$7/$18 per barrel"
+"Tax Free",2012,3,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,3,"Consumed on brewery premises",6082,"$7/$18 per barrel"
+"Taxable",2012,4,"In bottles and cans",13477976,"$7/$18 per barrel"
+"Taxable",2012,4,"In kegs",1412362,"$7/$18 per barrel"
+"Taxable",2012,4,"Tax Determined, Premises Use",7775,"$7/$18 per barrel"
+"Tax Free",2012,4,"For export",411898,"$7/$18 per barrel"
+"Tax Free",2012,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,4,"Consumed on brewery premises",1190,"$7/$18 per barrel"
+"Taxable",2012,5,"In bottles and cans",15336779,"$7/$18 per barrel"
+"Taxable",2012,5,"In kegs",1564931,"$7/$18 per barrel"
+"Taxable",2012,5,"Tax Determined, Premises Use",7918,"$7/$18 per barrel"
+"Tax Free",2012,5,"For export",461000,"$7/$18 per barrel"
+"Tax Free",2012,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,5,"Consumed on brewery premises",1168,"$7/$18 per barrel"
+"Taxable",2012,6,"In bottles and cans",15192075,"$7/$18 per barrel"
+"Taxable",2012,6,"In kegs",1664444,"$7/$18 per barrel"
+"Taxable",2012,6,"Tax Determined, Premises Use",114288,"$7/$18 per barrel"
+"Tax Free",2012,6,"For export",432795,"$7/$18 per barrel"
+"Tax Free",2012,6,"For vessels and aircraft",28,"$7/$18 per barrel"
+"Tax Free",2012,6,"Consumed on brewery premises",8804,"$7/$18 per barrel"
+"Taxable",2012,7,"In bottles and cans",14929416,"$7/$18 per barrel"
+"Taxable",2012,7,"In kegs",1490304,"$7/$18 per barrel"
+"Taxable",2012,7,"Tax Determined, Premises Use",7873,"$7/$18 per barrel"
+"Tax Free",2012,7,"For export",437938,"$7/$18 per barrel"
+"Tax Free",2012,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,7,"Consumed on brewery premises",1844,"$7/$18 per barrel"
+"Taxable",2012,8,"In bottles and cans",14961416,"$7/$18 per barrel"
+"Taxable",2012,8,"In kegs",1565666,"$7/$18 per barrel"
+"Taxable",2012,8,"Tax Determined, Premises Use",8502,"$7/$18 per barrel"
+"Tax Free",2012,8,"For export",411977,"$7/$18 per barrel"
+"Tax Free",2012,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,8,"Consumed on brewery premises",1525,"$7/$18 per barrel"
+"Taxable",2012,9,"In bottles and cans",13052268,"$7/$18 per barrel"
+"Taxable",2012,9,"In kegs",1574509,"$7/$18 per barrel"
+"Taxable",2012,9,"Tax Determined, Premises Use",111767,"$7/$18 per barrel"
+"Tax Free",2012,9,"For export",429588,"$7/$18 per barrel"
+"Tax Free",2012,9,"For vessels and aircraft",75,"$7/$18 per barrel"
+"Tax Free",2012,9,"Consumed on brewery premises",9831,"$7/$18 per barrel"
+"Taxable",2012,10,"In bottles and cans",12819635,"$7/$18 per barrel"
+"Taxable",2012,10,"In kegs",1460515,"$7/$18 per barrel"
+"Taxable",2012,10,"Tax Determined, Premises Use",8318,"$7/$18 per barrel"
+"Tax Free",2012,10,"For export",483568,"$7/$18 per barrel"
+"Tax Free",2012,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,10,"Consumed on brewery premises",1467,"$7/$18 per barrel"
+"Taxable",2012,11,"In bottles and cans",12079191,"$7/$18 per barrel"
+"Taxable",2012,11,"In kegs",1326659,"$7/$18 per barrel"
+"Taxable",2012,11,"Tax Determined, Premises Use",7426,"$7/$18 per barrel"
+"Tax Free",2012,11,"For export",441845,"$7/$18 per barrel"
+"Tax Free",2012,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,11,"Consumed on brewery premises",1267,"$7/$18 per barrel"
+"Taxable",2012,12,"In bottles and cans",11488549,"$7/$18 per barrel"
+"Taxable",2012,12,"In kegs",1385919,"$7/$18 per barrel"
+"Taxable",2012,12,"Tax Determined, Premises Use",102737,"$7/$18 per barrel"
+"Tax Free",2012,12,"For export",427839,"$7/$18 per barrel"
+"Tax Free",2012,12,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2012,12,"Consumed on brewery premises",9684,"$7/$18 per barrel"
+"Taxable",2013,1,"In bottles and cans",12274005,"$7/$18 per barrel"
+"Taxable",2013,1,"In kegs",1406771,"$7/$18 per barrel"
+"Taxable",2013,1,"Tax Determined, Premises Use",7310,"$7/$18 per barrel"
+"Tax Free",2013,1,"For export",350896,"$7/$18 per barrel"
+"Tax Free",2013,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,1,"Consumed on brewery premises",1090,"$7/$18 per barrel"
+"Taxable",2013,2,"In bottles and cans",11634824,"$7/$18 per barrel"
+"Taxable",2013,2,"In kegs",1267516,"$7/$18 per barrel"
+"Taxable",2013,2,"Tax Determined, Premises Use",6747,"$7/$18 per barrel"
+"Tax Free",2013,2,"For export",364352,"$7/$18 per barrel"
+"Tax Free",2013,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,2,"Consumed on brewery premises",956,"$7/$18 per barrel"
+"Taxable",2013,3,"In bottles and cans",12988319,"$7/$18 per barrel"
+"Taxable",2013,3,"In kegs",1590977,"$7/$18 per barrel"
+"Taxable",2013,3,"Tax Determined, Premises Use",135222,"$7/$18 per barrel"
+"Tax Free",2013,3,"For export",389026,"$7/$18 per barrel"
+"Tax Free",2013,3,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,3,"Consumed on brewery premises",12078,"$7/$18 per barrel"
+"Taxable",2013,4,"In bottles and cans",13568681,"$7/$18 per barrel"
+"Taxable",2013,4,"In kegs",1473897,"$7/$18 per barrel"
+"Taxable",2013,4,"Tax Determined, Premises Use",8817,"$7/$18 per barrel"
+"Tax Free",2013,4,"For export",419968,"$7/$18 per barrel"
+"Tax Free",2013,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,4,"Consumed on brewery premises",1269,"$7/$18 per barrel"
+"Taxable",2013,5,"In bottles and cans",14776310,"$7/$18 per barrel"
+"Taxable",2013,5,"In kegs",1533136,"$7/$18 per barrel"
+"Taxable",2013,5,"Tax Determined, Premises Use",7880,"$7/$18 per barrel"
+"Tax Free",2013,5,"For export",485237,"$7/$18 per barrel"
+"Tax Free",2013,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,5,"Consumed on brewery premises",1724,"$7/$18 per barrel"
+"Taxable",2013,6,"In bottles and cans",14758150,"$7/$18 per barrel"
+"Taxable",2013,6,"In kegs",1656493,"$7/$18 per barrel"
+"Taxable",2013,6,"Tax Determined, Premises Use",117302,"$7/$18 per barrel"
+"Tax Free",2013,6,"For export",415176,"$7/$18 per barrel"
+"Tax Free",2013,6,"For vessels and aircraft",661,"$7/$18 per barrel"
+"Tax Free",2013,6,"Consumed on brewery premises",14767,"$7/$18 per barrel"
+"Taxable",2013,7,"In bottles and cans",14620708,"$7/$18 per barrel"
+"Taxable",2013,7,"In kegs",1489704,"$7/$18 per barrel"
+"Taxable",2013,7,"Tax Determined, Premises Use",8775,"$7/$18 per barrel"
+"Tax Free",2013,7,"For export",521250,"$7/$18 per barrel"
+"Tax Free",2013,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,7,"Consumed on brewery premises",1810,"$7/$18 per barrel"
+"Taxable",2013,8,"In bottles and cans",14624362,"$7/$18 per barrel"
+"Taxable",2013,8,"In kegs",1489756,"$7/$18 per barrel"
+"Taxable",2013,8,"Tax Determined, Premises Use",7914,"$7/$18 per barrel"
+"Tax Free",2013,8,"For export",463206,"$7/$18 per barrel"
+"Tax Free",2013,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,8,"Consumed on brewery premises",1808,"$7/$18 per barrel"
+"Taxable",2013,9,"In bottles and cans",13420386,"$7/$18 per barrel"
+"Taxable",2013,9,"In kegs",1610189,"$7/$18 per barrel"
+"Taxable",2013,9,"Tax Determined, Premises Use",121678,"$7/$18 per barrel"
+"Tax Free",2013,9,"For export",496157,"$7/$18 per barrel"
+"Tax Free",2013,9,"For vessels and aircraft",1,"$7/$18 per barrel"
+"Tax Free",2013,9,"Consumed on brewery premises",14257,"$7/$18 per barrel"
+"Taxable",2013,10,"In bottles and cans",12802115,"$7/$18 per barrel"
+"Taxable",2013,10,"In kegs",1447175,"$7/$18 per barrel"
+"Taxable",2013,10,"Tax Determined, Premises Use",8338,"$7/$18 per barrel"
+"Tax Free",2013,10,"For export",554584,"$7/$18 per barrel"
+"Tax Free",2013,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,10,"Consumed on brewery premises",1539,"$7/$18 per barrel"
+"Taxable",2013,11,"In bottles and cans",12031360,"$7/$18 per barrel"
+"Taxable",2013,11,"In kegs",1251431,"$7/$18 per barrel"
+"Taxable",2013,11,"Tax Determined, Premises Use",7002,"$7/$18 per barrel"
+"Tax Free",2013,11,"For export",452863,"$7/$18 per barrel"
+"Tax Free",2013,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2013,11,"Consumed on brewery premises",1226,"$7/$18 per barrel"
+"Taxable",2013,12,"In bottles and cans",11478530,"$7/$18 per barrel"
+"Taxable",2013,12,"In kegs",1480185,"$7/$18 per barrel"
+"Taxable",2013,12,"Tax Determined, Premises Use",115855,"$7/$18 per barrel"
+"Tax Free",2013,12,"For export",395989,"$7/$18 per barrel"
+"Tax Free",2013,12,"For vessels and aircraft",2,"$7/$18 per barrel"
+"Tax Free",2013,12,"Consumed on brewery premises",15507,"$7/$18 per barrel"
+"Taxable",2014,1,"In bottles and cans",12390892,"$7/$18 per barrel"
+"Taxable",2014,1,"In kegs",1338104,"$7/$18 per barrel"
+"Taxable",2014,1,"Tax Determined, Premises Use",7502,"$7/$18 per barrel"
+"Tax Free",2014,1,"For export",351441,"$7/$18 per barrel"
+"Tax Free",2014,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,1,"Consumed on brewery premises",1251,"$7/$18 per barrel"
+"Taxable",2014,2,"In bottles and cans",12132162,"$7/$18 per barrel"
+"Taxable",2014,2,"In kegs",1240984,"$7/$18 per barrel"
+"Taxable",2014,2,"Tax Determined, Premises Use",7496,"$7/$18 per barrel"
+"Tax Free",2014,2,"For export",402904,"$7/$18 per barrel"
+"Tax Free",2014,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,2,"Consumed on brewery premises",1099,"$7/$18 per barrel"
+"Taxable",2014,3,"In bottles and cans",12938927,"$7/$18 per barrel"
+"Taxable",2014,3,"In kegs",1627799,"$7/$18 per barrel"
+"Taxable",2014,3,"Tax Determined, Premises Use",110218,"$7/$18 per barrel"
+"Tax Free",2014,3,"For export",490133,"$7/$18 per barrel"
+"Tax Free",2014,3,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,3,"Consumed on brewery premises",15134,"$7/$18 per barrel"
+"Taxable",2014,4,"In bottles and cans",13384105,"$7/$18 per barrel"
+"Taxable",2014,4,"In kegs",1518768,"$7/$18 per barrel"
+"Taxable",2014,4,"Tax Determined, Premises Use",6742,"$7/$18 per barrel"
+"Tax Free",2014,4,"For export",518471,"$7/$18 per barrel"
+"Tax Free",2014,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,4,"Consumed on brewery premises",1716,"$7/$18 per barrel"
+"Taxable",2014,5,"In bottles and cans",14520258,"$7/$18 per barrel"
+"Taxable",2014,5,"In kegs",1475909,"$7/$18 per barrel"
+"Taxable",2014,5,"Tax Determined, Premises Use",7679,"$7/$18 per barrel"
+"Tax Free",2014,5,"For export",534184,"$7/$18 per barrel"
+"Tax Free",2014,5,"For vessels and aircraft",29,"$7/$18 per barrel"
+"Tax Free",2014,5,"Consumed on brewery premises",1751,"$7/$18 per barrel"
+"Taxable",2014,6,"In bottles and cans",14631411,"$7/$18 per barrel"
+"Taxable",2014,6,"In kegs",1713913,"$7/$18 per barrel"
+"Taxable",2014,6,"Tax Determined, Premises Use",125880,"$7/$18 per barrel"
+"Tax Free",2014,6,"For export",534398,"$7/$18 per barrel"
+"Tax Free",2014,6,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,6,"Consumed on brewery premises",17640,"$7/$18 per barrel"
+"Taxable",2014,7,"In bottles and cans",14793439,"$7/$18 per barrel"
+"Taxable",2014,7,"In kegs",1533395,"$7/$18 per barrel"
+"Taxable",2014,7,"Tax Determined, Premises Use",8028,"$7/$18 per barrel"
+"Tax Free",2014,7,"For export",502064,"$7/$18 per barrel"
+"Tax Free",2014,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,7,"Consumed on brewery premises",1810,"$7/$18 per barrel"
+"Taxable",2014,8,"In bottles and cans",13887322,"$7/$18 per barrel"
+"Taxable",2014,8,"In kegs",1420427,"$7/$18 per barrel"
+"Taxable",2014,8,"Tax Determined, Premises Use",8409,"$7/$18 per barrel"
+"Tax Free",2014,8,"For export",392942,"$7/$18 per barrel"
+"Tax Free",2014,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,8,"Consumed on brewery premises",1747,"$7/$18 per barrel"
+"Taxable",2014,9,"In bottles and cans",13230362,"$7/$18 per barrel"
+"Taxable",2014,9,"In kegs",1708867,"$7/$18 per barrel"
+"Taxable",2014,9,"Tax Determined, Premises Use",134312,"$7/$18 per barrel"
+"Tax Free",2014,9,"For export",412707,"$7/$18 per barrel"
+"Tax Free",2014,9,"For vessels and aircraft",21,"$7/$18 per barrel"
+"Tax Free",2014,9,"Consumed on brewery premises",20038,"$7/$18 per barrel"
+"Taxable",2014,10,"In bottles and cans",12794401,"$7/$18 per barrel"
+"Taxable",2014,10,"In kegs",1423017,"$7/$18 per barrel"
+"Taxable",2014,10,"Tax Determined, Premises Use",7981,"$7/$18 per barrel"
+"Tax Free",2014,10,"For export",472508,"$7/$18 per barrel"
+"Tax Free",2014,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,10,"Consumed on brewery premises",1461,"$7/$18 per barrel"
+"Taxable",2014,11,"In bottles and cans",11344554,"$7/$18 per barrel"
+"Taxable",2014,11,"In kegs",1177676,"$7/$18 per barrel"
+"Taxable",2014,11,"Tax Determined, Premises Use",6182,"$7/$18 per barrel"
+"Tax Free",2014,11,"For export",434104,"$7/$18 per barrel"
+"Tax Free",2014,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2014,11,"Consumed on brewery premises",1223,"$7/$18 per barrel"
+"Taxable",2014,12,"In bottles and cans",11995291,"$7/$18 per barrel"
+"Taxable",2014,12,"In kegs",1595319,"$7/$18 per barrel"
+"Taxable",2014,12,"Tax Determined, Premises Use",192217,"$7/$18 per barrel"
+"Tax Free",2014,12,"For export",454735,"$7/$18 per barrel"
+"Tax Free",2014,12,"For vessels and aircraft",1130,"$7/$18 per barrel"
+"Tax Free",2014,12,"Consumed on brewery premises",20420,"$7/$18 per barrel"
+"Taxable",2015,1,"In bottles and cans",11656212,"$7/$18 per barrel"
+"Taxable",2015,1,"In kegs",1276226,"$7/$18 per barrel"
+"Taxable",2015,1,"Tax Determined, Premises Use",6806,"$7/$18 per barrel"
+"Tax Free",2015,1,"For export",354749,"$7/$18 per barrel"
+"Tax Free",2015,1,"For vessels and aircraft",117,"$7/$18 per barrel"
+"Tax Free",2015,1,"Consumed on brewery premises",1628,"$7/$18 per barrel"
+"Taxable",2015,2,"In bottles and cans",11179924,"$7/$18 per barrel"
+"Taxable",2015,2,"In kegs",1262808,"$7/$18 per barrel"
+"Taxable",2015,2,"Tax Determined, Premises Use",6106,"$7/$18 per barrel"
+"Tax Free",2015,2,"For export",357498,"$7/$18 per barrel"
+"Tax Free",2015,2,"For vessels and aircraft",1,"$7/$18 per barrel"
+"Tax Free",2015,2,"Consumed on brewery premises",1523,"$7/$18 per barrel"
+"Taxable",2015,3,"In bottles and cans",13321164,"$7/$18 per barrel"
+"Taxable",2015,3,"In kegs",1786611,"$7/$18 per barrel"
+"Taxable",2015,3,"Tax Determined, Premises Use",221770,"$7/$18 per barrel"
+"Tax Free",2015,3,"For export",559330,"$7/$18 per barrel"
+"Tax Free",2015,3,"For vessels and aircraft",30,"$7/$18 per barrel"
+"Tax Free",2015,3,"Consumed on brewery premises",23391,"$7/$18 per barrel"
+"Taxable",2015,4,"In bottles and cans",13539869,"$7/$18 per barrel"
+"Taxable",2015,4,"In kegs",1474192,"$7/$18 per barrel"
+"Taxable",2015,4,"Tax Determined, Premises Use",7170,"$7/$18 per barrel"
+"Tax Free",2015,4,"For export",492268,"$7/$18 per barrel"
+"Tax Free",2015,4,"For vessels and aircraft",6,"$7/$18 per barrel"
+"Tax Free",2015,4,"Consumed on brewery premises",2357,"$7/$18 per barrel"
+"Taxable",2015,5,"In bottles and cans",14204583,"$7/$18 per barrel"
+"Taxable",2015,5,"In kegs",1410085,"$7/$18 per barrel"
+"Taxable",2015,5,"Tax Determined, Premises Use",6622,"$7/$18 per barrel"
+"Tax Free",2015,5,"For export",553068,"$7/$18 per barrel"
+"Tax Free",2015,5,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2015,5,"Consumed on brewery premises",2282,"$7/$18 per barrel"
+"Taxable",2015,6,"In bottles and cans",14830747,"$7/$18 per barrel"
+"Taxable",2015,6,"In kegs",1771569,"$7/$18 per barrel"
+"Taxable",2015,6,"Tax Determined, Premises Use",292373,"$7/$18 per barrel"
+"Tax Free",2015,6,"For export",558280,"$7/$18 per barrel"
+"Tax Free",2015,6,"For vessels and aircraft",38,"$7/$18 per barrel"
+"Tax Free",2015,6,"Consumed on brewery premises",27188,"$7/$18 per barrel"
+"Taxable",2015,7,"In bottles and cans",14452093,"$7/$18 per barrel"
+"Taxable",2015,7,"In kegs",1452705,"$7/$18 per barrel"
+"Taxable",2015,7,"Tax Determined, Premises Use",6090,"$7/$18 per barrel"
+"Tax Free",2015,7,"For export",567138,"$7/$18 per barrel"
+"Tax Free",2015,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2015,7,"Consumed on brewery premises",2605,"$7/$18 per barrel"
+"Taxable",2015,8,"In bottles and cans",14240391,"$7/$18 per barrel"
+"Taxable",2015,8,"In kegs",1413207,"$7/$18 per barrel"
+"Taxable",2015,8,"Tax Determined, Premises Use",7317,"$7/$18 per barrel"
+"Tax Free",2015,8,"For export",603719,"$7/$18 per barrel"
+"Tax Free",2015,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2015,8,"Consumed on brewery premises",2224,"$7/$18 per barrel"
+"Taxable",2015,9,"In bottles and cans",13623068,"$7/$18 per barrel"
+"Taxable",2015,9,"In kegs",1719450,"$7/$18 per barrel"
+"Taxable",2015,9,"Tax Determined, Premises Use",349239,"$7/$18 per barrel"
+"Tax Free",2015,9,"For export",589239,"$7/$18 per barrel"
+"Tax Free",2015,9,"For vessels and aircraft",44,"$7/$18 per barrel"
+"Tax Free",2015,9,"Consumed on brewery premises",28853,"$7/$18 per barrel"
+"Taxable",2015,10,"In bottles and cans",12739353,"$7/$18 per barrel"
+"Taxable",2015,10,"In kegs",1358555,"$7/$18 per barrel"
+"Taxable",2015,10,"Tax Determined, Premises Use",6290,"$7/$18 per barrel"
+"Tax Free",2015,10,"For export",585491,"$7/$18 per barrel"
+"Tax Free",2015,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2015,10,"Consumed on brewery premises",2174,"$7/$18 per barrel"
+"Taxable",2015,11,"In bottles and cans",11188380,"$7/$18 per barrel"
+"Taxable",2015,11,"In kegs",1201936,"$7/$18 per barrel"
+"Taxable",2015,11,"Tax Determined, Premises Use",4894,"$7/$18 per barrel"
+"Tax Free",2015,11,"For export",553502,"$7/$18 per barrel"
+"Tax Free",2015,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2015,11,"Consumed on brewery premises",1612,"$7/$18 per barrel"
+"Taxable",2015,12,"In bottles and cans",11719362,"$7/$18 per barrel"
+"Taxable",2015,12,"In kegs",1573208,"$7/$18 per barrel"
+"Taxable",2015,12,"Tax Determined, Premises Use",351899,"$7/$18 per barrel"
+"Tax Free",2015,12,"For export",439989,"$7/$18 per barrel"
+"Tax Free",2015,12,"For vessels and aircraft",28,"$7/$18 per barrel"
+"Tax Free",2015,12,"Consumed on brewery premises",23857,"$7/$18 per barrel"
+"Taxable",2016,1,"In bottles and cans",11489725,"$7/$18 per barrel"
+"Taxable",2016,1,"In kegs",1204228,"$7/$18 per barrel"
+"Taxable",2016,1,"Tax Determined, Premises Use",4803,"$7/$18 per barrel"
+"Tax Free",2016,1,"For export",361217,"$7/$18 per barrel"
+"Tax Free",2016,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,1,"Consumed on brewery premises",1669,"$7/$18 per barrel"
+"Taxable",2016,2,"In bottles and cans",11706959,"$7/$18 per barrel"
+"Taxable",2016,2,"In kegs",1238908,"$7/$18 per barrel"
+"Taxable",2016,2,"Tax Determined, Premises Use",5686,"$7/$18 per barrel"
+"Tax Free",2016,2,"For export",448309,"$7/$18 per barrel"
+"Tax Free",2016,2,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,2,"Consumed on brewery premises",1873,"$7/$18 per barrel"
+"Taxable",2016,3,"In bottles and cans",13284374,"$7/$18 per barrel"
+"Taxable",2016,3,"In kegs",1725472,"$7/$18 per barrel"
+"Taxable",2016,3,"Tax Determined, Premises Use",401274,"$7/$18 per barrel"
+"Tax Free",2016,3,"For export",512911,"$7/$18 per barrel"
+"Tax Free",2016,3,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,3,"Consumed on brewery premises",33134,"$7/$18 per barrel"
+"Taxable",2016,4,"In bottles and cans",13330387,"$7/$18 per barrel"
+"Taxable",2016,4,"In kegs",1413272,"$7/$18 per barrel"
+"Taxable",2016,4,"Tax Determined, Premises Use",5997,"$7/$18 per barrel"
+"Tax Free",2016,4,"For export",652116,"$7/$18 per barrel"
+"Tax Free",2016,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,4,"Consumed on brewery premises",1974,"$7/$18 per barrel"
+"Taxable",2016,5,"In bottles and cans",14264958,"$7/$18 per barrel"
+"Taxable",2016,5,"In kegs",1413739,"$7/$18 per barrel"
+"Taxable",2016,5,"Tax Determined, Premises Use",5420,"$7/$18 per barrel"
+"Tax Free",2016,5,"For export",546287,"$7/$18 per barrel"
+"Tax Free",2016,5,"For vessels and aircraft",3,"$7/$18 per barrel"
+"Tax Free",2016,5,"Consumed on brewery premises",2893,"$7/$18 per barrel"
+"Taxable",2016,6,"In bottles and cans",14620647,"$7/$18 per barrel"
+"Taxable",2016,6,"In kegs",1688378,"$7/$18 per barrel"
+"Taxable",2016,6,"Tax Determined, Premises Use",492387,"$7/$18 per barrel"
+"Tax Free",2016,6,"For export",543366,"$7/$18 per barrel"
+"Tax Free",2016,6,"For vessels and aircraft",703,"$7/$18 per barrel"
+"Tax Free",2016,6,"Consumed on brewery premises",32892,"$7/$18 per barrel"
+"Taxable",2016,7,"In bottles and cans",13794217,"$7/$18 per barrel"
+"Taxable",2016,7,"In kegs",1309265,"$7/$18 per barrel"
+"Taxable",2016,7,"Tax Determined, Premises Use",5351,"$7/$18 per barrel"
+"Tax Free",2016,7,"For export",529554,"$7/$18 per barrel"
+"Tax Free",2016,7,"For vessels and aircraft",250,"$7/$18 per barrel"
+"Tax Free",2016,7,"Consumed on brewery premises",1950,"$7/$18 per barrel"
+"Taxable",2016,8,"In bottles and cans",14810650,"$7/$18 per barrel"
+"Taxable",2016,8,"In kegs",1423634,"$7/$18 per barrel"
+"Taxable",2016,8,"Tax Determined, Premises Use",5353,"$7/$18 per barrel"
+"Tax Free",2016,8,"For export",550547,"$7/$18 per barrel"
+"Tax Free",2016,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,8,"Consumed on brewery premises",2227,"$7/$18 per barrel"
+"Taxable",2016,9,"In bottles and cans",13080031,"$7/$18 per barrel"
+"Taxable",2016,9,"In kegs",1566415,"$7/$18 per barrel"
+"Taxable",2016,9,"Tax Determined, Premises Use",528974,"$7/$18 per barrel"
+"Tax Free",2016,9,"For export",564274,"$7/$18 per barrel"
+"Tax Free",2016,9,"For vessels and aircraft",147,"$7/$18 per barrel"
+"Tax Free",2016,9,"Consumed on brewery premises",30152,"$7/$18 per barrel"
+"Taxable",2016,10,"In bottles and cans",11699120,"$7/$18 per barrel"
+"Taxable",2016,10,"In kegs",1294598,"$7/$18 per barrel"
+"Taxable",2016,10,"Tax Determined, Premises Use",4528,"$7/$18 per barrel"
+"Tax Free",2016,10,"For export",680517,"$7/$18 per barrel"
+"Tax Free",2016,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,10,"Consumed on brewery premises",2364,"$7/$18 per barrel"
+"Taxable",2016,11,"In bottles and cans",11189919,"$7/$18 per barrel"
+"Taxable",2016,11,"In kegs",1229111,"$7/$18 per barrel"
+"Taxable",2016,11,"Tax Determined, Premises Use",4315,"$7/$18 per barrel"
+"Tax Free",2016,11,"For export",672442,"$7/$18 per barrel"
+"Tax Free",2016,11,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2016,11,"Consumed on brewery premises",2148,"$7/$18 per barrel"
+"Taxable",2016,12,"In bottles and cans",11697755,"$7/$18 per barrel"
+"Taxable",2016,12,"In kegs",1419764,"$7/$18 per barrel"
+"Taxable",2016,12,"Tax Determined, Premises Use",497625,"$7/$18 per barrel"
+"Tax Free",2016,12,"For export",429443,"$7/$18 per barrel"
+"Tax Free",2016,12,"For vessels and aircraft",6,"$7/$18 per barrel"
+"Tax Free",2016,12,"Consumed on brewery premises",33571,"$7/$18 per barrel"
+"Taxable",2017,1,"In bottles and cans",11679815,"$7/$18 per barrel"
+"Taxable",2017,1,"In kegs",1205102,"$7/$18 per barrel"
+"Taxable",2017,1,"Tax Determined, Premises Use",3999,"$7/$18 per barrel"
+"Tax Free",2017,1,"For export",539319,"$7/$18 per barrel"
+"Tax Free",2017,1,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2017,1,"Consumed on brewery premises",1664,"$7/$18 per barrel"
+"Taxable",2017,2,"In bottles and cans",10449800,"$7/$18 per barrel"
+"Taxable",2017,2,"In kegs",1148724,"$7/$18 per barrel"
+"Taxable",2017,2,"Tax Determined, Premises Use",3937,"$7/$18 per barrel"
+"Tax Free",2017,2,"For export",590662,"$7/$18 per barrel"
+"Tax Free",2017,2,"For vessels and aircraft",2,"$7/$18 per barrel"
+"Tax Free",2017,2,"Consumed on brewery premises",1459,"$7/$18 per barrel"
+"Taxable",2017,3,"In bottles and cans",12811841,"$7/$18 per barrel"
+"Taxable",2017,3,"In kegs",1710226,"$7/$18 per barrel"
+"Taxable",2017,3,"Tax Determined, Premises Use",517435,"$7/$18 per barrel"
+"Tax Free",2017,3,"For export",593513,"$7/$18 per barrel"
+"Tax Free",2017,3,"For vessels and aircraft",38,"$7/$18 per barrel"
+"Tax Free",2017,3,"Consumed on brewery premises",27332,"$7/$18 per barrel"
+"Taxable",2017,4,"In bottles and cans",12720695,"$7/$18 per barrel"
+"Taxable",2017,4,"In kegs",1327194,"$7/$18 per barrel"
+"Taxable",2017,4,"Tax Determined, Premises Use",4437,"$7/$18 per barrel"
+"Tax Free",2017,4,"For export",577780,"$7/$18 per barrel"
+"Tax Free",2017,4,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2017,4,"Consumed on brewery premises",1890,"$7/$18 per barrel"
+"Taxable",2017,5,"In bottles and cans",14900329,"$7/$18 per barrel"
+"Taxable",2017,5,"In kegs",1403751,"$7/$18 per barrel"
+"Taxable",2017,5,"Tax Determined, Premises Use",4789,"$7/$18 per barrel"
+"Tax Free",2017,5,"For export",540643,"$7/$18 per barrel"
+"Tax Free",2017,5,"For vessels and aircraft",8,"$7/$18 per barrel"
+"Tax Free",2017,5,"Consumed on brewery premises",1967,"$7/$18 per barrel"
+"Taxable",2017,6,"In bottles and cans",14731827,"$7/$18 per barrel"
+"Taxable",2017,6,"In kegs",1608382,"$7/$18 per barrel"
+"Taxable",2017,6,"Tax Determined, Premises Use",630023,"$7/$18 per barrel"
+"Tax Free",2017,6,"For export",539885,"$7/$18 per barrel"
+"Tax Free",2017,6,"For vessels and aircraft",1,"$7/$18 per barrel"
+"Tax Free",2017,6,"Consumed on brewery premises",26649,"$7/$18 per barrel"
+"Taxable",2017,7,"In bottles and cans",13170721,"$7/$18 per barrel"
+"Taxable",2017,7,"In kegs",1263379,"$7/$18 per barrel"
+"Taxable",2017,7,"Tax Determined, Premises Use",5114,"$7/$18 per barrel"
+"Tax Free",2017,7,"For export",720037,"$7/$18 per barrel"
+"Tax Free",2017,7,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2017,7,"Consumed on brewery premises",1866,"$7/$18 per barrel"
+"Taxable",2017,8,"In bottles and cans",13969075,"$7/$18 per barrel"
+"Taxable",2017,8,"In kegs",1372531,"$7/$18 per barrel"
+"Taxable",2017,8,"Tax Determined, Premises Use",5467,"$7/$18 per barrel"
+"Tax Free",2017,8,"For export",670838,"$7/$18 per barrel"
+"Tax Free",2017,8,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2017,8,"Consumed on brewery premises",1784,"$7/$18 per barrel"
+"Taxable",2017,9,"In bottles and cans",12357694,"$7/$18 per barrel"
+"Taxable",2017,9,"In kegs",1421452,"$7/$18 per barrel"
+"Taxable",2017,9,"Tax Determined, Premises Use",645667,"$7/$18 per barrel"
+"Tax Free",2017,9,"For export",561602,"$7/$18 per barrel"
+"Tax Free",2017,9,"For vessels and aircraft",52,"$7/$18 per barrel"
+"Tax Free",2017,9,"Consumed on brewery premises",28171,"$7/$18 per barrel"
+"Taxable",2017,10,"In bottles and cans",12491312,"$7/$18 per barrel"
+"Taxable",2017,10,"In kegs",1472610,"$7/$18 per barrel"
+"Taxable",2017,10,"Tax Determined, Premises Use",4696,"$7/$18 per barrel"
+"Tax Free",2017,10,"For export",647306,"$7/$18 per barrel"
+"Tax Free",2017,10,"For vessels and aircraft",0,"$7/$18 per barrel"
+"Tax Free",2017,10,"Consumed on brewery premises",1276,"$7/$18 per barrel"
+"Taxable",2017,11,"In bottles and cans",11341763,"$7/$18 per barrel"
+"Taxable",2017,11,"In kegs",1206790,"$7/$18 per barrel"
+"Taxable",2017,11,"Tax Determined, Premises Use",3714,"$7/$18 per barrel"
+"Tax Free",2017,11,"For export",452865,"$7/$18 per barrel"
+"Tax Free",2017,11,"For vessels and aircraft",3484,"$7/$18 per barrel"
+"Tax Free",2017,11,"Consumed on brewery premises",1348,"$7/$18 per barrel"
+"Taxable",2017,12,"In bottles and cans",10719932,"$7/$18 per barrel"
+"Taxable",2017,12,"In kegs",1236385,"$7/$18 per barrel"
+"Taxable",2017,12,"Tax Determined, Premises Use",503106,"$7/$18 per barrel"
+"Tax Free",2017,12,"For export",377224,"$7/$18 per barrel"
+"Tax Free",2017,12,"For vessels and aircraft",55,"$7/$18 per barrel"
+"Tax Free",2017,12,"Consumed on brewery premises",21325,"$7/$18 per barrel"
+"Taxable",2018,1,"In bottles and cans",10884988,"$3.50/$16 per barrel"
+"Taxable",2018,1,"In barrels and kegs",1241826,"$3.50/$16 per barrel"
+"Taxable",2018,1,"Tax Determined, Premises Use",5366,"$3.50/$16 per barrel"
+"Tax Free",2018,1,"For export",573974,"$3.50/$16 per barrel"
+"Tax Free",2018,1,"Consumed on brewery premises",1112,"$3.50/$16 per barrel"
+"Taxable",2018,2,"In bottles and cans",10148564,"$3.50/$16 per barrel"
+"Taxable",2018,2,"In barrels and kegs",1118430,"$3.50/$16 per barrel"
+"Taxable",2018,2,"Tax Determined, Premises Use",4582,"$3.50/$16 per barrel"
+"Tax Free",2018,2,"For export",571341,"$3.50/$16 per barrel"
+"Tax Free",2018,2,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2018,2,"Consumed on brewery premises",1002,"$3.50/$16 per barrel"
+"Taxable",2018,3,"In bottles and cans",12410627,"$3.50/$16 per barrel"
+"Taxable",2018,3,"In barrels and kegs",1550281,"$3.50/$16 per barrel"
+"Taxable",2018,3,"Tax Determined, Premises Use",685517,"$3.50/$16 per barrel"
+"Tax Free",2018,3,"For export",605640,"$3.50/$16 per barrel"
+"Tax Free",2018,3,"For vessels and aircraft",10,"$3.50/$16 per barrel"
+"Tax Free",2018,3,"Consumed on brewery premises",25044,"$3.50/$16 per barrel"
+"Taxable",2018,4,"In bottles and cans",12821206,"$3.50/$16 per barrel"
+"Taxable",2018,4,"In barrels and kegs",1302101,"$3.50/$16 per barrel"
+"Taxable",2018,4,"Tax Determined, Premises Use",4842,"$3.50/$16 per barrel"
+"Tax Free",2018,4,"For export",588434,"$3.50/$16 per barrel"
+"Tax Free",2018,4,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2018,4,"Consumed on brewery premises",1076,"$3.50/$16 per barrel"
+"Taxable",2018,5,"In bottles and cans",13875500,"$3.50/$16 per barrel"
+"Taxable",2018,5,"In barrels and kegs",1382342,"$3.50/$16 per barrel"
+"Taxable",2018,5,"Tax Determined, Premises Use",5736,"$3.50/$16 per barrel"
+"Tax Free",2018,5,"For export",654536,"$3.50/$16 per barrel"
+"Tax Free",2018,5,"For vessels and aircraft",233,"$3.50/$16 per barrel"
+"Tax Free",2018,5,"Consumed on brewery premises",1146,"$3.50/$16 per barrel"
+"Taxable",2018,6,"In bottles and cans",14169508,"$3.50/$16 per barrel"
+"Taxable",2018,6,"In barrels and kegs",1498143,"$3.50/$16 per barrel"
+"Taxable",2018,6,"Tax Determined, Premises Use",802638,"$3.50/$16 per barrel"
+"Tax Free",2018,6,"For export",692704,"$3.50/$16 per barrel"
+"Tax Free",2018,6,"For vessels and aircraft",451,"$3.50/$16 per barrel"
+"Tax Free",2018,6,"Consumed on brewery premises",28204,"$3.50/$16 per barrel"
+"Taxable",2018,7,"In bottles and cans",13936154,"$3.50/$16 per barrel"
+"Taxable",2018,7,"In barrels and kegs",1239547,"$3.50/$16 per barrel"
+"Taxable",2018,7,"Tax Determined, Premises Use",6579,"$3.50/$16 per barrel"
+"Tax Free",2018,7,"For export",755920,"$3.50/$16 per barrel"
+"Tax Free",2018,7,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2018,7,"Consumed on brewery premises",2576,"$3.50/$16 per barrel"
+"Taxable",2018,8,"In bottles and cans",13927580,"$3.50/$16 per barrel"
+"Taxable",2018,8,"In barrels and kegs",1355873,"$3.50/$16 per barrel"
+"Taxable",2018,8,"Tax Determined, Premises Use",6752,"$3.50/$16 per barrel"
+"Tax Free",2018,8,"For export",715332,"$3.50/$16 per barrel"
+"Tax Free",2018,8,"For vessels and aircraft",1915,"$3.50/$16 per barrel"
+"Tax Free",2018,8,"Consumed on brewery premises",1296,"$3.50/$16 per barrel"
+"Taxable",2018,9,"In bottles and cans",11993132,"$3.50/$16 per barrel"
+"Taxable",2018,9,"In barrels and kegs",1356854,"$3.50/$16 per barrel"
+"Taxable",2018,9,"Tax Determined, Premises Use",803529,"$3.50/$16 per barrel"
+"Tax Free",2018,9,"For export",463754,"$3.50/$16 per barrel"
+"Tax Free",2018,9,"For vessels and aircraft",12,"$3.50/$16 per barrel"
+"Tax Free",2018,9,"Consumed on brewery premises",26381,"$3.50/$16 per barrel"
+"Taxable",2018,10,"In bottles and cans",13895668,"$3.50/$16 per barrel"
+"Taxable",2018,10,"In barrels and kegs",1252668,"$3.50/$16 per barrel"
+"Taxable",2018,10,"Tax Determined, Premises Use",5590,"$3.50/$16 per barrel"
+"Tax Free",2018,10,"For export",513223,"$3.50/$16 per barrel"
+"Tax Free",2018,10,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2018,10,"Consumed on brewery premises",1107,"$3.50/$16 per barrel"
+"Taxable",2018,11,"In bottles and cans",10737490,"$3.50/$16 per barrel"
+"Taxable",2018,11,"In barrels and kegs",1087854,"$3.50/$16 per barrel"
+"Taxable",2018,11,"Tax Determined, Premises Use",4965,"$3.50/$16 per barrel"
+"Tax Free",2018,11,"For export",414642,"$3.50/$16 per barrel"
+"Tax Free",2018,11,"For vessels and aircraft",9,"$3.50/$16 per barrel"
+"Tax Free",2018,11,"Consumed on brewery premises",964,"$3.50/$16 per barrel"
+"Taxable",2018,12,"In bottles and cans",11007154,"$3.50/$16 per barrel"
+"Taxable",2018,12,"In barrels and kegs",1271402,"$3.50/$16 per barrel"
+"Taxable",2018,12,"Tax Determined, Premises Use",839121,"$3.50/$16 per barrel"
+"Tax Free",2018,12,"For export",359305,"$3.50/$16 per barrel"
+"Tax Free",2018,12,"For vessels and aircraft",2,"$3.50/$16 per barrel"
+"Tax Free",2018,12,"Consumed on brewery premises",30149,"$3.50/$16 per barrel"
+"Taxable",2019,1,"In bottles and cans",11196720,"$3.50/$16 per barrel"
+"Taxable",2019,1,"In barrels and kegs",1196450,"$3.50/$16 per barrel"
+"Taxable",2019,1,"Tax Determined, Premises Use",4509,"$3.50/$16 per barrel"
+"Tax Free",2019,1,"For export",416290,"$3.50/$16 per barrel"
+"Tax Free",2019,1,"Consumed on brewery premises",1097,"$3.50/$16 per barrel"
+"Taxable",2019,2,"In bottles and cans",10362380,"$3.50/$16 per barrel"
+"Taxable",2019,2,"In barrels and kegs",1064546,"$3.50/$16 per barrel"
+"Taxable",2019,2,"Tax Determined, Premises Use",3886,"$3.50/$16 per barrel"
+"Tax Free",2019,2,"For export",442637,"$3.50/$16 per barrel"
+"Tax Free",2019,2,"Consumed on brewery premises",704,"$3.50/$16 per barrel"
+"Taxable",2019,3,"In bottles and cans",12242914,"$3.50/$16 per barrel"
+"Taxable",2019,3,"In barrels and kegs",1387609,"$3.50/$16 per barrel"
+"Taxable",2019,3,"Tax Determined, Premises Use",739765,"$3.50/$16 per barrel"
+"Tax Free",2019,3,"For export",420161,"$3.50/$16 per barrel"
+"Tax Free",2019,3,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2019,3,"Consumed on brewery premises",23721,"$3.50/$16 per barrel"
+"Taxable",2019,4,"In bottles and cans",12912591,"$3.50/$16 per barrel"
+"Taxable",2019,4,"In barrels and kegs",1284021,"$3.50/$16 per barrel"
+"Taxable",2019,4,"Tax Determined, Premises Use",3656,"$3.50/$16 per barrel"
+"Tax Free",2019,4,"For export",451810,"$3.50/$16 per barrel"
+"Tax Free",2019,4,"For vessels and aircraft",5,"$3.50/$16 per barrel"
+"Tax Free",2019,4,"Consumed on brewery premises",836,"$3.50/$16 per barrel"
+"Taxable",2019,5,"In bottles and cans",13880744,"$3.50/$16 per barrel"
+"Taxable",2019,5,"In barrels and kegs",1292050,"$3.50/$16 per barrel"
+"Taxable",2019,5,"Tax Determined, Premises Use",2774,"$3.50/$16 per barrel"
+"Tax Free",2019,5,"For export",354177,"$3.50/$16 per barrel"
+"Tax Free",2019,5,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2019,5,"Consumed on brewery premises",1002,"$3.50/$16 per barrel"
+"Taxable",2019,6,"In bottles and cans",13485781,"$3.50/$16 per barrel"
+"Taxable",2019,6,"In barrels and kegs",1321752,"$3.50/$16 per barrel"
+"Taxable",2019,6,"Tax Determined, Premises Use",863390,"$3.50/$16 per barrel"
+"Tax Free",2019,6,"For export",415847,"$3.50/$16 per barrel"
+"Tax Free",2019,6,"For vessels and aircraft",348,"$3.50/$16 per barrel"
+"Tax Free",2019,6,"Consumed on brewery premises",24280,"$3.50/$16 per barrel"
+"Taxable",2019,7,"In bottles and cans",13608099,"$3.50/$16 per barrel"
+"Taxable",2019,7,"In barrels and kegs",1208898,"$3.50/$16 per barrel"
+"Taxable",2019,7,"Tax Determined, Premises Use",3312,"$3.50/$16 per barrel"
+"Tax Free",2019,7,"For export",484266,"$3.50/$16 per barrel"
+"Tax Free",2019,7,"Consumed on brewery premises",949,"$3.50/$16 per barrel"
+"Taxable",2019,8,"In bottles and cans",13140604,"$3.50/$16 per barrel"
+"Taxable",2019,8,"In barrels and kegs",1180431,"$3.50/$16 per barrel"
+"Taxable",2019,8,"Tax Determined, Premises Use",2962,"$3.50/$16 per barrel"
+"Tax Free",2019,8,"For export",440332,"$3.50/$16 per barrel"
+"Tax Free",2019,8,"For vessels and aircraft",34086,"$3.50/$16 per barrel"
+"Tax Free",2019,8,"Consumed on brewery premises",854,"$3.50/$16 per barrel"
+"Taxable",2019,9,"In bottles and cans",12528418,"$3.50/$16 per barrel"
+"Taxable",2019,9,"In barrels and kegs",1297699,"$3.50/$16 per barrel"
+"Taxable",2019,9,"Tax Determined, Premises Use",888468,"$3.50/$16 per barrel"
+"Tax Free",2019,9,"For export",434759,"$3.50/$16 per barrel"
+"Tax Free",2019,9,"For vessels and aircraft",2,"$3.50/$16 per barrel"
+"Tax Free",2019,9,"Consumed on brewery premises",28666,"$3.50/$16 per barrel"
+"Taxable",2019,10,"In bottles and cans",11965871,"$3.50/$16 per barrel"
+"Taxable",2019,10,"In barrels and kegs",1199168,"$3.50/$16 per barrel"
+"Taxable",2019,10,"Tax Determined, Premises Use",2861,"$3.50/$16 per barrel"
+"Tax Free",2019,10,"For export",515181,"$3.50/$16 per barrel"
+"Tax Free",2019,10,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2019,10,"Consumed on brewery premises",1077,"$3.50/$16 per barrel"
+"Taxable",2019,11,"In bottles and cans",11355468,"$3.50/$16 per barrel"
+"Taxable",2019,11,"In barrels and kegs",1038243,"$3.50/$16 per barrel"
+"Taxable",2019,11,"Tax Determined, Premises Use",2622,"$3.50/$16 per barrel"
+"Tax Free",2019,11,"For export",326437,"$3.50/$16 per barrel"
+"Tax Free",2019,11,"For vessels and aircraft",0,"$3.50/$16 per barrel"
+"Tax Free",2019,11,"Consumed on brewery premises",752,"$3.50/$16 per barrel"
+"Taxable",2019,12,"In bottles and cans",11669254,"$3.50/$16 per barrel"
+"Taxable",2019,12,"In barrels and kegs",1253497,"$3.50/$16 per barrel"
+"Taxable",2019,12,"Tax Determined, Premises Use",902554,"$3.50/$16 per barrel"
+"Tax Free",2019,12,"For export",361068,"$3.50/$16 per barrel"
+"Tax Free",2019,12,"For vessels and aircraft",1,"$3.50/$16 per barrel"
+"Tax Free",2019,12,"Consumed on brewery premises",23886,"$3.50/$16 per barrel"

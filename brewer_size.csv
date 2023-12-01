@@ -1,4 +1,4 @@
-year,brewer_size,n_of_brewers,total_barrels,taxable_removals,total_shipped
+"year","brewer_size","n_of_brewers","total_barrels","taxable_removals","total_shipped"
 2009,"1 to 15,000 Barrels",1436,1703089.52,1529996.45,375.0
 2009,"1,000,000 to 6,000,000 Barrels",4,9970404.28,9592722.75,14548.0
 2009,"15,001 to 999,999 Barrels",125,14062895.91,12214054.370000001,279472.0
