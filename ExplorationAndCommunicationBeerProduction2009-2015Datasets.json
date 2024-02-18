@@ -1,0 +1,316 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Pedro Antonio Mora Chacón; Student# 22203184; COMP40610-Information Visualisation; Exploration & Communication Assignment",
+  "title": {
+    "text": "Recovery after the Great Recession.",
+    // =Set Custom font size
+    "fontSize":30, 
+    // Increase the padding
+    "offset": 20,
+    "subtitle":"2009-2015 U.S. Beer Industry",
+    "subtitleFontSize": 25,
+    "subtitleFontWeight":"bold",
+    "anchor": "middle"
+  },
+  "vconcat": [
+    {
+      "resolve": {
+        "legend": {
+          "color": "independent"
+        },
+        "scale": {
+          "color": "independent"
+        }
+      },
+      "data": {
+        "name": "beer_states",
+        "url": "https://raw.githubusercontent.com/pedro-morachacon/2008-2020_USA_Beer_Production_Dataset_Exploration/main/beer_states.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "hconcat": [
+        {
+          "width":500,
+          "height": 300,
+          "title": {
+            "text": "Percentage of U.S. Beer Production.",
+            // =Set Custom Font size
+            "fontSize":20,
+            // =Set Custom Padding
+            "offset": 10, 
+            "anchor": "middle"
+          },
+          "transform": [
+            {
+              "filter": "datum.year == Year.year"
+            },
+            {
+              "lookup": "id",
+              "from": {
+                "data": {
+                  "url": "https://vega.github.io/vega-lite/data/us-10m.json",
+                  "format": {
+                    "type": "topojson",
+                    "feature": "states"
+                  }
+                },
+                "key": "id"
+              },
+              "as": "geo"
+            }
+          ],
+          "projection": {
+            "type": "albersUsa"
+          },
+          "mark": "geoshape",
+          "encoding": {
+            "color": {
+              "field": "percentage_total_barrels",
+              "type": "quantitative",
+              "aggregate": "sum",
+              
+              "scale": {
+                // =Color blindness friendliness
+                "scheme": "viridis",
+                "reverse":true
+              },
+              "legend": {
+                "title": "National Production Percentage", 
+                "orient": "bottom",
+                // =Set Custom Padding
+                "titlePadding": 4, 
+                // =Set Custom Font size
+                "titleFontSize": 10 
+              }
+            },
+            "shape": {
+              "field": "geo",
+              "type": "geojson"
+            },
+            "tooltip": [
+              {
+                "field": "state_name", 
+                "title": "State of ", 
+                "type": "nominal"
+              },
+              {
+                "field": "barrels", 
+                "title": "Barrels: ", 
+                "type": "quantitative", 
+                "format":",.3s"
+              },
+              {
+                "field": "percentage_total_barrels", 
+                "title": "National %: ", 
+                "type": "quantitative", 
+                "format":","
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "resolve": {
+        "scale": {
+          "color": "shared"
+        }
+      },
+      "offset": 20,
+      "hconcat": [
+        {
+          "data": {
+            "name": "brewer_size",
+            "url": "https://raw.githubusercontent.com/pedro-morachacon/2008-2020_USA_Beer_Production_Dataset_Exploration/main/brewer_size.csv",
+            "format": {
+              "type": "csv"
+            }
+          },
+          "title": { 
+            "text": "Growth in Breweries versus Production Growth.",
+            // =Set Custom Font size
+            "fontSize":20, 
+            // =Set Custom Padding
+            "offset": 10,
+            "anchor": "middle" 
+          },
+          "transform": [
+            {
+              "filter": "datum.year == Year.year"
+            }
+          ],
+          "width":300,
+          "height":300,
+          "params": [
+            {
+              "name": "Year",
+              "value": {"year": 2009},
+              "select": {"type": "point", "fields": [ "year"]},
+              "bind": {
+                "year": {"input": "range", "min": 2009, "max": 2015, "step": 1, "name": "Year"}
+              }
+            }
+          ],
+          "mark": {
+            "type": "circle",
+            // To make it easy to see circles hidden in the back 
+            "opacity": 0.5 
+          },
+          "encoding": {
+            "x": {
+              "field": "total_barrels", 
+              "aggregate": "sum", 
+              "axis": {
+                "title": "Production in Barrels (1 = 117 litres).",
+                // =Set Custom Font size
+                "titleFontSize":14, 
+                // =Set Custom Padding
+                "titlePadding": 8 
+              },
+              "type": "quantitative",
+              // =Set Custom range
+              "scale": {"domain": [0,200000000]} 
+            },
+            "y": {
+              "field": "n_of_brewers",
+              "aggregate": "sum", 
+              "axis": {
+                "title": "Number of Brewers", 
+                // =Set Custom Font size
+                "titleFontSize":14, 
+                // To make it easy to read (left to right). 
+                "titleAngle": 0, 
+                // =Set Custom Padding
+                "titlePadding": 70  
+              }, 
+              "type": "quantitative",
+              // =Set Custom range
+              "scale": {"domain": [0,4000]} 
+            },
+            "size": {
+              "field": "brewer_size", 
+              "title": "Brewer Size by Annual Production",
+              "type": "ordinal",
+              "scale": {
+                "reverse":false, 
+                "domain": [
+                  "1 to 15,000 Barrels",
+                  "15,001 to 999,999 Barrels",
+                  "1,000,000 to 6,000,000 Barrels",
+                  "6,000,001 Barrels and Over"
+                ],
+                // Making the smaller marks more visible (larger)
+                "range": [300,900 ] 
+              },
+              "legend": {
+                "orient": "bottom"
+                }
+            },
+            "color": {
+              "field": "brewer_size", 
+              "title": "Brewer Size by Annual Production",
+              "type": "ordinal",
+              "scale": {
+                "scheme": {
+                  // Chosen for color blindness friendliness 
+                  "name": "viridis" 
+                },
+                "reverse":false, 
+                "domain": [
+                  "1 to 15,000 Barrels",
+                  "15,001 to 999,999 Barrels",
+                  "1,000,000 to 6,000,000 Barrels",
+                  "6,000,001 Barrels and Over"
+                ]
+              },
+              "legend": {
+                "orient": "bottom"
+                }
+            },
+            "tooltip": [
+              {  
+                "field": "brewer_size",
+                "title": "Brewer Size",
+                "type": "nominal"
+              },
+              {
+                "field": "n_of_brewers",
+                "title": "Number of Brewers",
+                "type": "quantitative",
+                "format": ","
+              },
+              {
+                "field": "total_barrels",
+                "title": "Production in Barrels",
+                "aggregate": "sum",
+                "type": "quantitative",
+                "format": ",.3s"
+              }
+            ]
+          }
+        },
+        {
+          "data": {
+            "name": "brewing_materials",
+            "url": "https://raw.githubusercontent.com/pedro-morachacon/2008-2020_USA_Beer_Production_Dataset_Exploration/main/brewing_materials.csv",
+            "format": {
+              "type": "csv"
+            }
+          },
+          "width":200,
+          "height":300,
+          "title": {
+            "text": "Beer Production Ingredients.",
+            // =Set Custom Font size
+            "fontSize":20, 
+            // =Set Custom Padding
+            "offset": 10,
+            "anchor": "middle"
+          },
+          "mark": "bar",
+          "transform": [
+            {
+              "filter": "datum.year == Year.year"
+            }
+          ],
+          "encoding": {
+            "y":{
+              "field":"type",
+              "axis": {
+                "title": ""
+              },
+              "type": "nominal",
+              "sort": {"field": "month_current", "op": "sum", "order":"descending"}
+            },
+            "x":{
+              "field": "month_current",
+              "type": "quantitative",
+              "aggregate": "sum",
+              "axis": {
+                "title": "Pounds of Material", 
+                "titleFontSize":14, 
+                "titlePadding": 10
+              }
+            },
+            "tooltip": [
+              {  
+                "field": "month_current",
+                "title": "Annual Usage (lbs.)",
+                "type": "quantitative",
+                "format": ",.3s"
+              },
+              {
+                "field": "percentage_change",
+                "title": "Annual % Change",
+                "type": "quantitative",
+                "format": ","
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
+  
